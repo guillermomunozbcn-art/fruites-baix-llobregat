@@ -213,16 +213,14 @@ Search Console / Bing: preferible verificación por **DNS (TXT)** del dominio; d
 
 ## 9. GitHub: repositorio y flujo de trabajo
 
-Repositorio propuesto: **`fruites-baix-llobregat`** (privado). Rama de producción: **`main`**.
+Repositorio: **[`guillermomunozbcn-art/fruites-baix-llobregat`](https://github.com/guillermomunozbcn-art/fruites-baix-llobregat)** (público). Rama de producción: **`main`**.
 
-Si el repositorio aún no existe:
+> Al ser público, cualquiera puede ver el código y los textos en borrador. No contiene secretos (las claves van en Vercel). Para hacerlo privado: Settings → General → Danger Zone → Change visibility.
 
-```bash
-gh repo create fruites-baix-llobregat --private --source=. --remote=origin
-```
+Clonar:
 
 ```bash
-git push -u origin main
+git clone https://github.com/guillermomunozbcn-art/fruites-baix-llobregat.git
 ```
 
 Flujo de trabajo:

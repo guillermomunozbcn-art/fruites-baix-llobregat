@@ -61,7 +61,7 @@ Las 21 fotografías actuales son **provisionales**, procedentes del CDN de Unspl
 ## 7. Dominio, GitHub y Vercel
 
 - [ ] Confirmar **propiedad y acceso** al dominio `fruitesbaixllobregat.com` (no respondía al revisarlo) y quién gestiona el DNS y el correo.
-- [ ] Crear el repositorio privado `fruites-baix-llobregat` en GitHub (no había acceso autorizado desde este entorno) y subir el código.
+- [x] Repositorio creado en GitHub: `guillermomunozbcn-art/fruites-baix-llobregat` (público).
 - [ ] Conectar el repositorio a un proyecto de Vercel (producción = `main`, previews en PR).
 - [ ] Conectar el dominio **sin modificar MX/SPF/DKIM/DMARC**.
 - [ ] `NEXT_PUBLIC_SITE_URL` = dominio definitivo; `NEXT_PUBLIC_ALLOW_INDEXING=true` solo en Production.
