@@ -1,0 +1,564 @@
+{
+  "meta": {
+    "siteName": "Fruites del Baix Llobregat",
+    "titleTemplate": "%s | Fruites del Baix Llobregat",
+    "home": {
+      "title": "Majorista de fruita i hortalisses a Mercabarna, Barcelona",
+      "description": "Comerç majorista de fruita i hortalisses a Mercabarna des del 1995. Producte seleccionat per a majoristes, distribuïdors, supermercats i compradors internacionals."
+    },
+    "company": {
+      "title": "Empresa: majoristes hortofructícoles a Mercabarna",
+      "description": "Coneix Fruites del Baix Llobregat: tres dècades comprant i comercialitzant fruita i hortalisses a Mercabarna, amb una relació estreta amb els productors."
+    },
+    "products": {
+      "title": "Fruita i hortalisses a l'engròs: productes de temporada",
+      "description": "Carxofa del Prat, mandarina, meló, albergínia i un assortiment de fruita i hortalisses que canvia amb cada campanya. Consulta la disponibilitat per a professionals."
+    },
+    "professionals": {
+      "title": "Per a professionals: compra majorista de fruita i verdura",
+      "description": "Majoristes, distribuïdors, supermercats i compradors internacionals: producte seleccionat a Mercabarna, amb recollida a les nostres parades. Demana informació."
+    },
+    "suppliers": {
+      "title": "Productors i proveïdors: canal majorista a Mercabarna",
+      "description": "Produeixes o comercialitzes fruita i hortalisses de qualitat? Presenta el teu producte a Fruites del Baix Llobregat i parlem d'una relació comercial."
+    },
+    "contact": {
+      "title": "Contacte: Mercabarna, pavelló E",
+      "description": "Contacta amb l'equip comercial de Fruites del Baix Llobregat a Mercabarna (Barcelona). Telèfon, correu, ubicació i formulari per a compradors i proveïdors."
+    },
+    "legalNotice": { "title": "Avís legal", "description": "Avís legal del lloc web de Fruites del Baix Llobregat, S.L." },
+    "privacy": { "title": "Política de privacitat", "description": "Com tracta Fruites del Baix Llobregat, S.L. les dades personals rebudes a través d'aquest lloc web." },
+    "cookies": { "title": "Política de galetes", "description": "Informació sobre les galetes i tecnologies similars utilitzades en aquest lloc web." },
+    "notFound": { "title": "Pàgina no trobada", "description": "La pàgina que busques no existeix o ha canviat d'adreça." }
+  },
+  "nav": {
+    "home": "Inici",
+    "company": "Empresa",
+    "products": "Productes",
+    "professionals": "Professionals",
+    "suppliers": "Productors i proveïdors",
+    "contact": "Contacte",
+    "cta": "Consultar disponibilitat",
+    "openMenu": "Obrir el menú",
+    "closeMenu": "Tancar el menú",
+    "mainNav": "Navegació principal",
+    "skipToContent": "Anar al contingut",
+    "language": "Idioma",
+    "changeLanguage": "Canviar d'idioma",
+    "breadcrumb": "Ruta de navegació",
+    "homeAria": "Fruites del Baix Llobregat — inici"
+  },
+  "common": {
+    "discoverProducts": "Descobreix els nostres productes",
+    "contact": "Contactar",
+    "contactSales": "Contactar amb l'equip comercial",
+    "checkAvailability": "Consultar disponibilitat",
+    "workWithUs": "Treballar amb nosaltres",
+    "iAmSupplier": "Soc productor o proveïdor",
+    "requestInfo": "Demanar informació",
+    "learnMore": "Conèixer l'empresa",
+    "assortmentNotice": "El nostre assortiment varia segons la temporada i la disponibilitat. Contacta amb el nostre equip per conèixer els productes de cada campanya.",
+    "since": "Des del {year}",
+    "pavilion": "Pavelló {pavilion}",
+    "stalls": "Parades {stalls}",
+    "phone": "Telèfon",
+    "email": "Correu electrònic",
+    "address": "Adreça",
+    "openInMaps": "Obrir a Google Maps",
+    "newWindow": "(s'obre en una finestra nova)",
+    "b2bOnly": "Venda exclusiva a professionals"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Majoristes de fruita i hortalisses · Mercabarna",
+      "title": "La qualitat neix a l'origen.",
+      "subtitle": "Fruita i hortalisses seleccionades per a professionals. Des de Mercabarna, connectem bons productors amb grans compradors.",
+      "ctaPrimary": "Descobreix els nostres productes",
+      "ctaSecondary": "Contactar",
+      "facts": {
+        "since": "Trajectòria des del 1995",
+        "location": "Mercabarna · Pavelló E",
+        "b2b": "Venda a professionals"
+      }
+    },
+    "intro": {
+      "eyebrow": "Qui som",
+      "title": "Comerç majorista hortofructícola amb criteri de compra.",
+      "body1": "Fruites del Baix Llobregat és una empresa majorista de fruita i hortalisses amb parades a Mercabarna, el gran mercat d'abastament de Barcelona. Comprem a productors i proveïdors, principalment d'Espanya, i comercialitzem el producte entre compradors professionals.",
+      "body2": "La nostra feina comença molt abans que la mercaderia arribi al mercat: conèixer els orígens, triar bé a qui comprem i oferir a cada client el producte adequat per al seu negoci.",
+      "link": "Conèixer l'empresa"
+    },
+    "featured": {
+      "eyebrow": "Especialitats de temporada",
+      "title": "Producte amb nom propi.",
+      "body": "Algunes referències marquen les nostres campanyes. Al seu costat, comercialitzem un ampli assortiment de fruita i hortalisses que canvia al llarg de l'any.",
+      "cta": "Veure tots els productes"
+    },
+    "origin": {
+      "eyebrow": "Origen i selecció",
+      "title": "Saber comprar és la meitat de l'ofici.",
+      "body": "La qualitat del que venem depèn d'on i a qui comprem. Per això dediquem temps a conèixer els nostres proveïdors i a revisar el gènere que rebem.",
+      "points": [
+        { "title": "Origen", "text": "Treballem amb productors i proveïdors de confiança, sobretot d'Espanya, i amb producte de proximitat del Baix Llobregat quan la temporada ho permet." },
+        { "title": "Selecció", "text": "Revisem el gènere que arriba a les nostres parades per oferir a cada client el producte que millor s'adapta al que necessita." },
+        { "title": "Mercat", "text": "Coneixem com es mou cada campanya i ajudem els nostres clients a anticipar-se als canvis d'oferta." }
+      ]
+    },
+    "buyers": {
+      "eyebrow": "A qui venem",
+      "title": "Un soci per a qui compra en volum.",
+      "body": "Treballem amb compradors professionals que necessiten producte per caixes i palets, amb continuïtat i tracte directe.",
+      "list": [
+        "Majoristes de fruita i hortalisses",
+        "Empreses distribuïdores",
+        "Supermercats i cadenes d'alimentació",
+        "Empreses de comercialització alimentària",
+        "Compradors nacionals i internacionals"
+      ],
+      "cta": "Informació per a professionals"
+    },
+    "experience": {
+      "eyebrow": "Trajectòria",
+      "yearLabel": "Inici de la nostra trajectòria",
+      "title": "Tres dècades en el comerç majorista de fruita i hortalisses.",
+      "body": "Des del 1995 hem vist canviar el mercat, els orígens i els hàbits de compra. El que es manté és la manera de treballar: conèixer el producte, complir el que s'ha acordat i tenir cura de cada relació comercial."
+    },
+    "mercabarna": {
+      "eyebrow": "Presència a Mercabarna",
+      "title": "Al cor de l'abastament alimentari de Barcelona.",
+      "body": "Les nostres parades són al pavelló E de Mercabarna, un dels grans mercats majoristes d'alimentació d'Europa. Allà rebem el producte dels nostres proveïdors i allà el recullen els nostres clients.",
+      "pickupTitle": "Com funciona la recollida",
+      "pickup": "Els compradors recullen la mercaderia a les nostres parades amb el seu propi vehicle, transportista o camió contractat. També els compradors internacionals organitzen el seu transport des de Mercabarna.",
+      "cta": "Com arribar-hi"
+    },
+    "producers": {
+      "eyebrow": "Relació amb els productors",
+      "quote": "Bons productors. Bon producte. Grans relacions.",
+      "body": "Les relacions estretes i duradores amb qui cultiva i comercialitza a l'origen ens permeten seleccionar bon gènere i trobar oportunitats a cada campanya. És la base del que oferim als nostres clients."
+    },
+    "suppliersInvite": {
+      "eyebrow": "Productors i proveïdors",
+      "title": "Tens un bon producte? Parlem-ne.",
+      "body": "Busquem productors, cooperatives i empreses hortofructícoles que vulguin un canal majorista a Mercabarna, també en noves categories.",
+      "cta": "Soc productor o proveïdor"
+    },
+    "contactCta": {
+      "eyebrow": "Contacte comercial",
+      "title": "Consulta la disponibilitat d'aquesta campanya.",
+      "body": "Explica'ns quin producte necessites i t'informarem del que et podem oferir.",
+      "ctaBuyer": "Consultar disponibilitat",
+      "ctaContact": "Contactar"
+    }
+  },
+  "company": {
+    "hero": {
+      "eyebrow": "Empresa",
+      "title": "Conèixer el producte i qui el cultiva.",
+      "lead": "Som una empresa majorista de fruita i hortalisses amb seu comercial a Mercabarna. La nostra fortalesa és saber comprar, seleccionar el producte adequat i connectar bons orígens amb compradors professionals."
+    },
+    "about": {
+      "eyebrow": "Qui som",
+      "title": "Un majorista hortofructícola de Barcelona.",
+      "body1": "Fruites del Baix Llobregat, S.L. es dedica al comerç majorista de fruita i hortalisses. Comprem a productors i proveïdors, rebem el gènere a les nostres parades de Mercabarna i el comercialitzem entre majoristes, distribuïdors, supermercats, cadenes d'alimentació i compradors internacionals.",
+      "body2": "El nostre nom parla d'un territori, el Baix Llobregat, amb una llarga tradició hortícola. Avui treballem un ampli assortiment de producte nacional, que canvia amb cada temporada i amb les oportunitats que ofereix el mercat."
+    },
+    "history": {
+      "eyebrow": "Trajectòria",
+      "title": "Des del 1995 en el comerç majorista.",
+      "body": "Fa prop de tres dècades que comprem i venem fruita i hortalisses. Aquesta experiència ens permet interpretar cada campanya, valorar el producte amb rapidesa i respondre al que necessiten els nostres clients."
+    },
+    "mercabarna": {
+      "eyebrow": "Presència a Mercabarna",
+      "title": "Pavelló E, parades 5007, 5037 i 5038.",
+      "body": "Mercabarna aplega bona part del comerç majorista alimentari de Catalunya i és punt de trobada de compradors de tot l'Estat i d'altres països. Ser-hi ens permet tractar directament amb proveïdors i clients cada dia."
+    },
+    "howWeWork": {
+      "eyebrow": "Manera de treballar",
+      "title": "De l'origen al comprador, pas a pas.",
+      "steps": [
+        { "title": "Compra a l'origen", "text": "Comprem a productors i proveïdors que coneixem, principalment a Espanya." },
+        { "title": "Recepció a Mercabarna", "text": "Els proveïdors fan arribar la mercaderia a les nostres parades de Mercabarna." },
+        { "title": "Selecció", "text": "Revisem el gènere i orientem cada client cap al producte que millor s'ajusta a la seva necessitat." },
+        { "title": "Venda i recollida", "text": "Venem per caixes, palets i operacions de volum. El client recull la mercaderia a Mercabarna amb el seu propi transport." }
+      ]
+    },
+    "producers": {
+      "eyebrow": "Relació amb els productors",
+      "title": "Relacions que es construeixen campanya rere campanya.",
+      "body": "Mantenim un tracte proper amb productors i proveïdors de qualitat. Aquestes relacions, construïdes amb el temps, ens donen accés a bon gènere i ens permeten detectar oportunitats de compra. També treballem alguns productes propis."
+    },
+    "selection": {
+      "eyebrow": "Selecció del producte",
+      "title": "El producte adequat per a cada client.",
+      "body": "No tots els compradors necessiten el mateix. Escoltem què busca cada client i l'orientem cap al gènere que encaixa amb el seu canal, el seu client final i el seu moment de compra."
+    },
+    "market": {
+      "eyebrow": "Coneixement del mercat",
+      "title": "Llegir cada campanya.",
+      "body": "L'assortiment canvia segons la temporada, el clima, les campanyes agrícoles i l'oferta disponible. Seguir el mercat de prop ens permet adaptar-nos i treballar diferents productes segons la demanda."
+    },
+    "philosophy": {
+      "eyebrow": "Filosofia comercial",
+      "title": "Experiència, selecció i confiança a cada campanya.",
+      "values": [
+        { "title": "Qualitat de producte", "text": "Bona selecció de fruita i hortalisses, recolzada en el coneixement del mercat." },
+        { "title": "Relació amb l'origen", "text": "Relacions estretes i duradores amb productors i proveïdors." },
+        { "title": "Adaptabilitat", "text": "Capacitat de treballar diferents productes i campanyes segons la demanda." },
+        { "title": "Confiança", "text": "Relacions comercials a llarg termini, basades en el tracte directe i en complir el que s'ha acordat." }
+      ]
+    },
+    "cta": {
+      "title": "Vols treballar amb nosaltres?",
+      "body": "Tant si compres com si produeixes, estarem encantats de conèixer-te."
+    }
+  },
+  "products": {
+    "hero": {
+      "eyebrow": "Productes",
+      "title": "Cada temporada, el millor de cada origen.",
+      "lead": "Comercialitzem fruita i hortalisses per a compradors professionals. L'assortiment canvia amb cada campanya: aquestes són algunes de les referències i famílies de producte amb què treballem."
+    },
+    "featuredTitle": "Especialitats destacades",
+    "featuredBody": "Productes especialment rellevants a les nostres campanyes. La seva disponibilitat depèn de la temporada.",
+    "categoriesTitle": "Famílies de producte",
+    "categoriesBody": "Categories orientatives del nostre assortiment. No totes estan disponibles en tot moment.",
+    "otherTitle": "Altres referències habituals",
+    "seasonLabel": "Temporada orientativa",
+    "categoryLabel": "Família",
+    "askCta": "Consultar disponibilitat",
+    "jumpTo": "Anar a la família",
+    "categories": {
+      "seasonal": { "name": "Fruita de temporada", "description": "Fruita de pinyol, de llavor i altres fruites que entren i surten de l'assortiment segons la campanya." },
+      "citrus": { "name": "Cítrics", "description": "Mandarines, taronges i altres cítrics, amb un protagonisme especial a la tardor i a l'hivern." },
+      "melons": { "name": "Melons i síndries", "description": "Producte clau de les campanyes de primavera i estiu, en diferents tipus segons el moment." },
+      "vegetables": { "name": "Hortalisses", "description": "Albergínia, pebrot, carbassó i altres hortalisses de producció nacional." },
+      "local": { "name": "Producte de proximitat", "description": "Gènere del Baix Llobregat i de l'entorn de Barcelona quan la temporada ho permet." },
+      "specialties": { "name": "Altres especialitats", "description": "Oportunitats de mercat i noves categories. Pregunta'ns pel que busques." }
+    },
+    "items": {
+      "artichoke": {
+        "name": "Carxofa del Prat",
+        "tag": "Proximitat",
+        "description": "Un dels nostres productes més representatius, amb una forta vinculació al territori del Baix Llobregat. Un clàssic de la temporada freda molt apreciat pel comprador exigent.",
+        "season": "Tardor – primavera"
+      },
+      "mandarin": {
+        "name": "Mandarina",
+        "tag": "Cítrics",
+        "description": "Producte especialment important a la nostra campanya 2026. Treballem diferents orígens i moments de campanya per donar continuïtat als nostres clients.",
+        "season": "Tardor – hivern"
+      },
+      "melon": {
+        "name": "Meló",
+        "tag": "Melons i síndries",
+        "description": "Un producte rellevant en determinades campanyes. Seleccionem l'origen i el moment de compra per oferir un meló a l'altura del que espera el client final.",
+        "season": "Primavera – estiu"
+      },
+      "eggplant": {
+        "name": "Albergínia",
+        "tag": "Hortalisses",
+        "description": "Una de les nostres referències habituals. Hortalissa de producció nacional, amb presència continuada al nostre assortiment segons la campanya i l'origen.",
+        "season": "Segons origen i campanya"
+      },
+      "pepper": {
+        "name": "Pebrot",
+        "tag": "Hortalisses",
+        "description": "Hortalissa de producció nacional en diferents tipus i colors, segons l'oferta de cada moment.",
+        "season": "Segons origen i campanya"
+      },
+      "zucchini": {
+        "name": "Carbassó",
+        "tag": "Hortalisses",
+        "description": "Una altra de les hortalisses habituals del nostre assortiment, procedent de diferents zones productores d'Espanya.",
+        "season": "Segons origen i campanya"
+      }
+    },
+    "cta": {
+      "title": "Busques un producte concret?",
+      "body": "Indica'ns què necessites, en quina quantitat orientativa i per a quan. Et direm què et podem oferir aquesta campanya."
+    }
+  },
+  "professionals": {
+    "hero": {
+      "eyebrow": "Per a professionals",
+      "title": "Fruita i hortalisses a l'engròs per a qui compra de debò.",
+      "lead": "Atenem majoristes, distribuïdors, supermercats, cadenes d'alimentació, empreses del sector i compradors internacionals que busquen producte seleccionat i un interlocutor fiable a Mercabarna."
+    },
+    "audience": {
+      "eyebrow": "Amb qui treballem",
+      "title": "Compradors professionals, nacionals i internacionals.",
+      "list": [
+        { "title": "Majoristes", "text": "Altres majoristes de fruita i hortalisses que completen el seu assortiment amb el nostre producte." },
+        { "title": "Distribuïdors", "text": "Empreses de distribució alimentària que necessiten continuïtat i volum." },
+        { "title": "Supermercats i cadenes", "text": "Compradors de supermercats i cadenes d'alimentació." },
+        { "title": "Compradors internacionals", "text": "Empreses d'altres països que compren a Mercabarna i organitzen el seu propi transport." },
+        { "title": "Empreses alimentàries", "text": "Empreses de comercialització i del sector de l'alimentació." }
+      ]
+    },
+    "offer": {
+      "eyebrow": "Què comercialitzem",
+      "title": "Un assortiment que segueix la temporada.",
+      "body": "Fruita i hortalisses principalment d'origen espanyol, amb referències destacades com la Carxofa del Prat, la mandarina, el meló o l'albergínia. L'assortiment canvia segons la campanya, els proveïdors disponibles i les oportunitats de mercat."
+    },
+    "advantages": {
+      "eyebrow": "Per què treballar amb nosaltres",
+      "title": "El que aportem a la teva compra.",
+      "list": [
+        { "title": "Qualitat de producte", "text": "Selecció basada en el coneixement del producte i del mercat." },
+        { "title": "Relació amb l'origen", "text": "Proveïdors i productors amb qui treballem de manera estreta i continuada." },
+        { "title": "Experiència", "text": "Unes tres dècades en el comerç majorista hortofructícola." },
+        { "title": "Adaptabilitat", "text": "Diferents productes i campanyes segons la demanda i les oportunitats." },
+        { "title": "Ubicació", "text": "Presència física a Mercabarna, un dels grans mercats majoristes d'Europa." },
+        { "title": "Tracte directe", "text": "Relacions comercials a llarg termini, amb un interlocutor que coneix el teu negoci." }
+      ]
+    },
+    "model": {
+      "eyebrow": "Model de compravenda",
+      "title": "Com treballem amb els nostres clients.",
+      "steps": [
+        { "title": "Consulta", "text": "Ens expliques quin producte busques, en quin volum orientatiu i per a quan." },
+        { "title": "Proposta", "text": "T'informem de la disponibilitat de la campanya i de les condicions de cada operació." },
+        { "title": "Venda", "text": "Treballem per caixes, palets i operacions de volum." },
+        { "title": "Recollida a Mercabarna", "text": "Recules la mercaderia a les nostres parades amb el teu propi vehicle, transportista o camió contractat." }
+      ]
+    },
+    "pickup": {
+      "eyebrow": "Ubicació i recollida",
+      "title": "La mercaderia es recull a Mercabarna.",
+      "body": "La recollida es fa habitualment a les nostres parades del pavelló E de Mercabarna. Cada client organitza el seu transport, ja sigui amb vehicle propi, amb un transportista o amb un camió contractat, també en les operacions internacionals.",
+      "note": "Fruites del Baix Llobregat no presta servei de transport ni de repartiment."
+    },
+    "communication": {
+      "eyebrow": "Comunicació comercial",
+      "title": "Un interlocutor directe.",
+      "body": "Preferim el tracte directe: telèfon, correu i conversa al mercat. Si és la teva primera compra, fes servir el formulari i el nostre equip comercial es posarà en contacte amb tu."
+    },
+    "form": {
+      "eyebrow": "Formulari per a compradors",
+      "title": "Demana informació o disponibilitat.",
+      "body": "Com més detalls ens donis, millor et podrem respondre. Els camps marcats amb * són obligatoris."
+    }
+  },
+  "suppliers": {
+    "hero": {
+      "eyebrow": "Productors i proveïdors",
+      "title": "Creiem en les relacions que comencen amb un bon producte.",
+      "lead": "Busquem productors i proveïdors de fruita i hortalisses que vulguin arribar a compradors professionals a través d'un canal majorista a Mercabarna."
+    },
+    "who": {
+      "eyebrow": "A qui busquem",
+      "title": "Si cultives o comercialitzes bon gènere, volem conèixer-te.",
+      "list": [
+        "Productors agrícoles",
+        "Cooperatives",
+        "Empreses hortofructícoles",
+        "Comercialitzadors a l'origen",
+        "Proveïdors de noves categories",
+        "Empreses que busquen un canal majorista a Mercabarna"
+      ]
+    },
+    "values": {
+      "eyebrow": "Què valorem",
+      "title": "Bon gènere i relacions de confiança.",
+      "list": [
+        { "title": "Qualitat constant", "text": "Producte ben cultivat, ben presentat i amb una qualitat que es manté al llarg de la campanya." },
+        { "title": "Informació clara", "text": "Origen, calendari de campanya i volums orientatius explicats amb transparència." },
+        { "title": "Visió a llarg termini", "text": "Interès a construir una relació que creixi campanya rere campanya." }
+      ]
+    },
+    "process": {
+      "eyebrow": "Com funciona",
+      "title": "Del primer contacte a la primera campanya.",
+      "steps": [
+        { "title": "Presenta'ns el teu producte", "text": "Omple el formulari amb el teu producte, origen, campanya i volum aproximat." },
+        { "title": "El valorem", "text": "El nostre equip revisa la informació i valora si encaixa amb els nostres clients i el nostre assortiment." },
+        { "title": "En parlem", "text": "Si hi ha encaix, et contactem per conèixer millor el teu producte i parlar de com treballar junts." }
+      ],
+      "note": "Revisem amb interès cada proposta. Enviar el formulari no implica cap compromís de compra per a cap de les parts."
+    },
+    "form": {
+      "eyebrow": "Formulari per a proveïdors",
+      "title": "Presenta'ns el teu producte.",
+      "body": "Els camps marcats amb * són obligatoris."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contacte",
+      "title": "Parlem de producte.",
+      "lead": "El nostre equip comercial atén compradors professionals i productors i proveïdors. Tria el canal que prefereixis."
+    },
+    "info": {
+      "title": "Dades de contacte",
+      "company": "Empresa",
+      "location": "Ubicació",
+      "locationValue": "Mercabarna, pavelló E",
+      "stallsLabel": "Parades",
+      "postal": "08040 Barcelona, Espanya"
+    },
+    "map": {
+      "title": "Mapa de Mercabarna",
+      "consent": "El mapa interactiu es carrega des de Google Maps, que pot instal·lar galetes pròpies.",
+      "load": "Carregar el mapa",
+      "iframeTitle": "Ubicació de Mercabarna a Google Maps"
+    },
+    "shortcuts": {
+      "title": "Ja saps què busques?",
+      "buyer": "Formulari per a compradors",
+      "supplier": "Formulari per a productors i proveïdors"
+    },
+    "form": {
+      "title": "Escriu-nos",
+      "body": "Els camps marcats amb * són obligatoris."
+    }
+  },
+  "forms": {
+    "required": "obligatori",
+    "optional": "opcional",
+    "fields": {
+      "company": "Empresa",
+      "companyOrProducer": "Empresa o productor",
+      "name": "Nom",
+      "contactName": "Nom de contacte",
+      "email": "Correu electrònic",
+      "phone": "Telèfon",
+      "country": "País",
+      "countryRegion": "País i regió",
+      "buyerType": "Tipus de comprador",
+      "products": "Productes d'interès",
+      "productsOffered": "Productes oferts",
+      "origin": "Origen",
+      "season": "Temporada o calendari de campanya",
+      "volume": "Volum orientatiu",
+      "volumeAvailable": "Volum aproximat disponible",
+      "message": "Missatge",
+      "profile": "Contacto com a"
+    },
+    "placeholders": {
+      "products": "Ex.: carxofa, mandarina, meló…",
+      "productsOffered": "Ex.: albergínia, pebrot…",
+      "origin": "Ex.: Almeria, Baix Llobregat…",
+      "season": "Ex.: de novembre a març",
+      "volume": "Ex.: 2 palets per setmana",
+      "volumeAvailable": "Ex.: 5 palets setmanals en plena campanya",
+      "countryRegion": "Ex.: Espanya, Múrcia"
+    },
+    "buyerTypes": {
+      "placeholder": "Selecciona una opció",
+      "wholesaler": "Majorista",
+      "distributor": "Distribuïdor",
+      "supermarket": "Supermercat o cadena d'alimentació",
+      "foodCompany": "Empresa de comercialització alimentària",
+      "international": "Comprador internacional",
+      "foodservice": "Restauració o un altre professional",
+      "other": "Altres"
+    },
+    "profiles": {
+      "buyer": "Comprador professional",
+      "supplier": "Productor o proveïdor",
+      "other": "Un altre motiu"
+    },
+    "privacy": "He llegit i accepto la <link>política de privacitat</link>. Les meves dades només s'utilitzaran per respondre aquesta sol·licitud.",
+    "submit": "Enviar la sol·licitud",
+    "submitting": "S'està enviant…",
+    "success": {
+      "title": "Sol·licitud enviada",
+      "body": "Gràcies. Hem rebut el teu missatge i el nostre equip comercial es posarà en contacte amb tu."
+    },
+    "errors": {
+      "summary": "Revisa els camps marcats.",
+      "required": "Aquest camp és obligatori.",
+      "email": "Introdueix un correu electrònic vàlid.",
+      "tooLong": "El text és massa llarg.",
+      "privacy": "Has d'acceptar la política de privacitat.",
+      "notConfigured": "L'enviament de formularis encara no està actiu. Escriu-nos a {email} o truca'ns al {phone}.",
+      "rateLimited": "Has enviat diverses sol·licituds seguides. Espera uns minuts i torna-ho a provar.",
+      "generic": "No s'ha pogut enviar la sol·licitud. Torna-ho a provar o escriu-nos a {email}."
+    },
+    "honeypot": "No omplis aquest camp"
+  },
+  "footer": {
+    "description": "Comerç majorista de fruita i hortalisses a Mercabarna. Producte seleccionat per a compradors professionals, nacionals i internacionals.",
+    "navTitle": "Navegació",
+    "contactTitle": "Contacte",
+    "legalTitle": "Informació legal",
+    "languagesTitle": "Idiomes",
+    "legalNotice": "Avís legal",
+    "privacy": "Política de privacitat",
+    "cookies": "Política de galetes",
+    "cookieSettings": "Configurar les galetes",
+    "rights": "Tots els drets reservats.",
+    "photoNote": "Fotografies il·lustratives."
+  },
+  "consent": {
+    "title": "Galetes analítiques",
+    "body": "Utilitzem galetes analítiques opcionals per saber com s'utilitza el web i millorar-lo. Només s'activen si les acceptes.",
+    "accept": "Acceptar",
+    "reject": "Rebutjar",
+    "more": "Més informació"
+  },
+  "legal": {
+    "legalNotice": {
+      "title": "Avís legal",
+      "sections": [
+        { "title": "Titular del lloc web", "body": "En compliment de la Llei 34/2002, de serveis de la societat de la informació i de comerç electrònic (LSSI), s'informa que aquest lloc web és titularitat de {company}, amb domicili comercial a Mercabarna, pavelló E, 08040 Barcelona (Espanya). Correu electrònic: {email}. Telèfon: {phone}." },
+        { "title": "Objecte", "body": "Aquest lloc web ofereix informació corporativa i comercial sobre l'activitat de comerç majorista de fruita i hortalisses de l'empresa, adreçada a professionals del sector. No es fan vendes a través del lloc web." },
+        { "title": "Condicions d'ús", "body": "L'accés al lloc web és gratuït i implica l'acceptació d'aquestes condicions. L'usuari es compromet a fer un ús adequat dels continguts i a no utilitzar-los per a activitats il·lícites o contràries a la bona fe." },
+        { "title": "Propietat intel·lectual i industrial", "body": "Els textos, el disseny, el logotip i la resta d'elements propis del lloc web pertanyen al seu titular o s'utilitzen amb la llicència corresponent. Les fotografies de producte són il·lustratives i provenen de bancs d'imatges amb llicència d'ús. Se'n prohibeix la reproducció sense autorització." },
+        { "title": "Responsabilitat", "body": "La informació sobre productes és orientativa: l'assortiment i la disponibilitat varien segons la temporada i la campanya. El titular no es fa responsable de l'ús que tercers facin de la informació publicada ni dels continguts de llocs web enllaçats." },
+        { "title": "Legislació aplicable", "body": "Aquest avís legal es regeix per la legislació espanyola." }
+      ]
+    },
+    "privacy": {
+      "title": "Política de privacitat",
+      "sections": [
+        { "title": "Responsable del tractament", "body": "{company}. Domicili comercial: Mercabarna, pavelló E, 08040 Barcelona (Espanya). Correu de contacte: {email}." },
+        { "title": "Dades que tractem", "body": "Les dades que ens facilites als formularis de contacte, de compradors i de proveïdors: nom, empresa, correu electrònic, telèfon (opcional), país i la informació comercial que decideixis incloure. Et demanem que no incloguis dades que no siguin necessàries per a la teva consulta." },
+        { "title": "Finalitat", "body": "Atendre la teva sol·licitud i, si escau, gestionar la relació comercial que se'n derivi. No utilitzem les teves dades per enviar-te comunicacions comercials no sol·licitades." },
+        { "title": "Base jurídica", "body": "El teu consentiment en enviar el formulari i, quan correspongui, l'aplicació de mesures precontractuals a petició teva (art. 6.1.a i 6.1.b del RGPD)." },
+        { "title": "Conservació", "body": "Conservem les dades el temps necessari per atendre la sol·licitud i, després, durant els terminis legalment exigibles." },
+        { "title": "Destinataris i encarregats", "body": "No cedim les teves dades a tercers llevat d'obligació legal. Per al funcionament del web i l'enviament dels formularis utilitzem proveïdors tecnològics (allotjament web i servei de correu electrònic) que actuen com a encarregats del tractament amb les garanties adequades." },
+        { "title": "Els teus drets", "body": "Pots exercir els drets d'accés, rectificació, supressió, oposició, limitació i portabilitat escrivint a {email}. També pots presentar una reclamació davant l'Agència Espanyola de Protecció de Dades (www.aepd.es) o l'Autoritat Catalana de Protecció de Dades." },
+        { "title": "Seguretat", "body": "Apliquem mesures tècniques i organitzatives raonables per protegir les dades, com la transmissió xifrada (HTTPS) i la minimització de les dades recollides. Els formularis no emmagatzemen els missatges en cap base de dades del web." }
+      ]
+    },
+    "cookies": {
+      "title": "Política de galetes",
+      "sections": [
+        { "title": "Què són les galetes", "body": "Les galetes són petits fitxers que un lloc web desa al teu navegador. Algunes són necessàries perquè el web funcioni i d'altres serveixen, per exemple, per mesurar-ne l'ús." },
+        { "title": "Galetes tècniques", "body": "Utilitzem una galeta tècnica (NEXT_LOCALE) per recordar l'idioma triat i emmagatzematge local per recordar les teves preferències de galetes. Són necessàries i no requereixen consentiment." },
+        { "title": "Galetes analítiques", "body": "Si en el futur s'activa Google Analytics, només es carregarà després que ho acceptis a l'avís de galetes. Pots canviar la teva decisió en qualsevol moment des de l'enllaç «Configurar les galetes» del peu de pàgina." },
+        { "title": "Continguts de tercers", "body": "El mapa de la pàgina de contacte es carrega des de Google Maps només quan prems «Carregar el mapa». Google pot instal·lar les seves pròpies galetes; consulta'n la política a policies.google.com." },
+        { "title": "Com desactivar-les", "body": "Pots eliminar o bloquejar les galetes des de la configuració del teu navegador." }
+      ]
+    }
+  },
+  "images": {
+    "heroMarket": "Parada de mercat amb una gran varietat de fruita i hortalisses fresques",
+    "mandarinTree": "Mandariner carregat de fruita madura al camp",
+    "artichokes": "Caixa de carxofes fresques amb les tiges",
+    "melon": "Meló tallat per la meitat sobre fons verd",
+    "eggplant": "Albergínia morada i brillant",
+    "mandarins": "Mandarines amb fulles verdes",
+    "citrusPile": "Munt de mandarines i taronges",
+    "watermelon": "Síndria sencera i una porció tallada",
+    "peppers": "Pebrots vermells, taronges i verds",
+    "vegetableStall": "Parada d'hortalisses amb carbassons, pebrots i cols",
+    "vegetableBaskets": "Cistelles amb bròquil, mongetes tendres, carbassons i pastanagues",
+    "peachTree": "Préssecs madurant a l'arbre",
+    "tomatoes": "Tomàquets de branca apilats",
+    "localCrates": "Caixes de fusta amb porros i pastanagues acabats de collir",
+    "potatoCrates": "Caixes de patates en un mercat",
+    "mixedFruit": "Composició de fruites variades: cítrics, pinya, papaia, raïm i alvocats",
+    "carrotCrate": "Caixa de fusta amb pastanagues fresques",
+    "eggplantFlower": "Flor de la planta de l'albergínia al cultiu",
+    "retailShelves": "Lineal de fruita i hortalisses en un supermercat",
+    "farmer": "Agricultora treballant en un camp de conreu",
+    "cropRows": "Fileres de conreu en un camp agrícola"
+  },
+  "notFound": {
+    "title": "Aquesta pàgina no existeix.",
+    "body": "És possible que l'adreça hagi canviat. Pots tornar a l'inici o consultar els nostres productes.",
+    "home": "Tornar a l'inici"
+  }
+}

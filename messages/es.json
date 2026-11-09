@@ -1,0 +1,747 @@
+{
+  "meta": {
+    "siteName": "Fruites del Baix Llobregat",
+    "titleTemplate": "%s | Fruites del Baix Llobregat",
+    "home": {
+      "title": "Mayorista de frutas y hortalizas en Mercabarna, Barcelona",
+      "description": "Comercio mayorista de frutas y hortalizas en Mercabarna desde 1995. Producto seleccionado para mayoristas, distribuidores, supermercados y compradores internacionales."
+    },
+    "company": {
+      "title": "Empresa: mayoristas hortofrutícolas en Mercabarna",
+      "description": "Conoce Fruites del Baix Llobregat: tres décadas comprando y comercializando frutas y hortalizas en Mercabarna, con relaciones estrechas con productores."
+    },
+    "products": {
+      "title": "Frutas y hortalizas al por mayor: productos de temporada",
+      "description": "Alcachofa del Prat, mandarina, melón, berenjena y un surtido de frutas y hortalizas que cambia con cada campaña. Consulta disponibilidad para profesionales."
+    },
+    "professionals": {
+      "title": "Para profesionales: compra mayorista de fruta y verdura",
+      "description": "Mayoristas, distribuidores, supermercados y compradores internacionales: producto seleccionado en Mercabarna, con recogida en nuestros puestos. Solicita información."
+    },
+    "suppliers": {
+      "title": "Productores y proveedores: canal mayorista en Mercabarna",
+      "description": "¿Produces o comercializas frutas y hortalizas de calidad? Presenta tu producto a Fruites del Baix Llobregat y conversemos sobre una relación comercial."
+    },
+    "contact": {
+      "title": "Contacto: Mercabarna, pabellón E",
+      "description": "Contacta con el equipo comercial de Fruites del Baix Llobregat en Mercabarna (Barcelona). Teléfono, email, ubicación y formulario para compradores y proveedores."
+    },
+    "legalNotice": {
+      "title": "Aviso legal",
+      "description": "Aviso legal del sitio web de Fruites del Baix Llobregat, S.L."
+    },
+    "privacy": {
+      "title": "Política de privacidad",
+      "description": "Cómo trata Fruites del Baix Llobregat, S.L. los datos personales recibidos a través de este sitio web."
+    },
+    "cookies": {
+      "title": "Política de cookies",
+      "description": "Información sobre las cookies y tecnologías similares utilizadas en este sitio web."
+    },
+    "notFound": {
+      "title": "Página no encontrada",
+      "description": "La página que buscas no existe o ha cambiado de dirección."
+    }
+  },
+  "nav": {
+    "home": "Inicio",
+    "company": "Empresa",
+    "products": "Productos",
+    "professionals": "Profesionales",
+    "suppliers": "Productores y proveedores",
+    "contact": "Contacto",
+    "cta": "Consultar disponibilidad",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "mainNav": "Navegación principal",
+    "skipToContent": "Saltar al contenido",
+    "language": "Idioma",
+    "changeLanguage": "Cambiar idioma",
+    "breadcrumb": "Ruta de navegación",
+    "homeAria": "Fruites del Baix Llobregat — inicio"
+  },
+  "common": {
+    "discoverProducts": "Descubre nuestros productos",
+    "contact": "Contactar",
+    "contactSales": "Contactar con el equipo comercial",
+    "checkAvailability": "Consultar disponibilidad",
+    "workWithUs": "Trabajar con nosotros",
+    "iAmSupplier": "Soy productor o proveedor",
+    "requestInfo": "Solicitar información",
+    "learnMore": "Conocer la empresa",
+    "assortmentNotice": "Nuestro surtido varía según temporada y disponibilidad. Contacta con nuestro equipo para conocer los productos de cada campaña.",
+    "since": "Desde {year}",
+    "pavilion": "Pabellón {pavilion}",
+    "stalls": "Puestos {stalls}",
+    "phone": "Teléfono",
+    "email": "Email",
+    "address": "Dirección",
+    "openInMaps": "Abrir en Google Maps",
+    "newWindow": "(se abre en una ventana nueva)",
+    "b2bOnly": "Venta exclusiva a profesionales"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Mayoristas de frutas y hortalizas · Mercabarna",
+      "title": "La calidad nace en el origen.",
+      "subtitle": "Frutas y hortalizas seleccionadas para profesionales. Desde Mercabarna, conectamos buenos productores con grandes compradores.",
+      "ctaPrimary": "Descubre nuestros productos",
+      "ctaSecondary": "Contactar",
+      "facts": {
+        "since": "Trayectoria desde 1995",
+        "location": "Mercabarna · Pabellón E",
+        "b2b": "Venta a profesionales"
+      }
+    },
+    "intro": {
+      "eyebrow": "Quiénes somos",
+      "title": "Comercio mayorista hortofrutícola con criterio de compra.",
+      "body1": "Fruites del Baix Llobregat es una empresa mayorista de frutas y hortalizas con puestos en Mercabarna, el gran mercado de abastecimiento de Barcelona. Compramos a productores y proveedores, principalmente de España, y comercializamos el producto entre compradores profesionales.",
+      "body2": "Nuestro trabajo empieza mucho antes de que la mercancía llegue al mercado: conocer los orígenes, elegir bien a quién comprar y ofrecer a cada cliente el producto adecuado para su negocio.",
+      "link": "Conocer la empresa"
+    },
+    "featured": {
+      "eyebrow": "Especialidades de temporada",
+      "title": "Producto con nombre propio.",
+      "body": "Algunas referencias marcan nuestras campañas. Junto a ellas, comercializamos un surtido amplio de frutas y hortalizas que cambia a lo largo del año.",
+      "cta": "Ver todos los productos"
+    },
+    "origin": {
+      "eyebrow": "Origen y selección",
+      "title": "Saber comprar es la mitad del oficio.",
+      "body": "La calidad de lo que vendemos depende de dónde y a quién compramos. Por eso dedicamos tiempo a conocer a nuestros proveedores y a revisar el género que recibimos.",
+      "points": [
+        {
+          "title": "Origen",
+          "text": "Trabajamos con productores y proveedores de confianza, sobre todo de España, y con producto de proximidad del Baix Llobregat cuando la temporada lo permite."
+        },
+        {
+          "title": "Selección",
+          "text": "Revisamos el género que llega a nuestros puestos para ofrecer a cada cliente el producto que mejor encaja con lo que necesita."
+        },
+        {
+          "title": "Mercado",
+          "text": "Conocemos cómo se mueve cada campaña y ayudamos a nuestros clientes a anticiparse a los cambios de oferta."
+        }
+      ]
+    },
+    "buyers": {
+      "eyebrow": "A quién vendemos",
+      "title": "Un socio para quien compra en volumen.",
+      "body": "Trabajamos con compradores profesionales que necesitan producto por cajas y palés, con continuidad y trato directo.",
+      "list": [
+        "Mayoristas de frutas y hortalizas",
+        "Empresas distribuidoras",
+        "Supermercados y cadenas de alimentación",
+        "Empresas de comercialización alimentaria",
+        "Compradores nacionales e internacionales"
+      ],
+      "cta": "Información para profesionales"
+    },
+    "experience": {
+      "eyebrow": "Trayectoria",
+      "title": "Tres décadas en el comercio mayorista de frutas y hortalizas.",
+      "body": "Desde 1995 hemos visto cambiar el mercado, los orígenes y los hábitos de compra. Lo que se mantiene es la forma de trabajar: conocer el producto, cumplir con lo acordado y cuidar cada relación comercial.",
+      "yearLabel": "Inicio de nuestra trayectoria"
+    },
+    "mercabarna": {
+      "eyebrow": "Presencia en Mercabarna",
+      "title": "En el corazón del abastecimiento alimentario de Barcelona.",
+      "body": "Nuestros puestos están en el pabellón E de Mercabarna, uno de los grandes mercados mayoristas de alimentación de Europa. Allí recibimos el producto de nuestros proveedores y allí lo retiran nuestros clientes.",
+      "pickupTitle": "Cómo funciona la recogida",
+      "pickup": "Los compradores retiran la mercancía en nuestros puestos con su propio vehículo, transportista o camión contratado. También los compradores internacionales organizan su transporte desde Mercabarna.",
+      "cta": "Cómo llegar"
+    },
+    "producers": {
+      "eyebrow": "Relaciones con productores",
+      "quote": "Buenos productores. Buen producto. Grandes relaciones.",
+      "body": "Las relaciones estrechas y duraderas con quienes cultivan y comercializan en origen nos permiten seleccionar buen género y encontrar oportunidades en cada campaña. Es la base de lo que ofrecemos a nuestros clientes."
+    },
+    "suppliersInvite": {
+      "eyebrow": "Productores y proveedores",
+      "title": "¿Tienes un buen producto? Hablemos.",
+      "body": "Buscamos productores, cooperativas y empresas hortofrutícolas que quieran un canal mayorista en Mercabarna, también en nuevas categorías.",
+      "cta": "Soy productor o proveedor"
+    },
+    "contactCta": {
+      "eyebrow": "Contacto comercial",
+      "title": "Consulta la disponibilidad de esta campaña.",
+      "body": "Cuéntanos qué producto necesitas y te informaremos sobre lo que podemos ofrecerte.",
+      "ctaBuyer": "Consultar disponibilidad",
+      "ctaContact": "Contactar"
+    }
+  },
+  "company": {
+    "hero": {
+      "eyebrow": "Empresa",
+      "title": "Conocer el producto y a quienes lo cultivan.",
+      "lead": "Somos una empresa mayorista de frutas y hortalizas con sede comercial en Mercabarna. Nuestra fortaleza está en saber comprar, seleccionar el producto adecuado y conectar buenos orígenes con compradores profesionales."
+    },
+    "about": {
+      "eyebrow": "Quiénes somos",
+      "title": "Un mayorista hortofrutícola de Barcelona.",
+      "body1": "Fruites del Baix Llobregat, S.L. se dedica al comercio mayorista de frutas y hortalizas. Compramos a productores y proveedores, recibimos el género en nuestros puestos de Mercabarna y lo comercializamos entre mayoristas, distribuidores, supermercados, cadenas de alimentación y compradores internacionales.",
+      "body2": "Nuestro nombre habla de un territorio, el Baix Llobregat, con una larga tradición hortícola. Hoy trabajamos un surtido amplio de producto nacional, que cambia con cada temporada y con las oportunidades que ofrece el mercado."
+    },
+    "history": {
+      "eyebrow": "Trayectoria",
+      "title": "Desde 1995 en el comercio mayorista.",
+      "body": "Llevamos alrededor de tres décadas comprando y vendiendo frutas y hortalizas. Esta experiencia nos permite interpretar cada campaña, valorar el producto con rapidez y responder a lo que necesitan nuestros clientes."
+    },
+    "mercabarna": {
+      "eyebrow": "Presencia en Mercabarna",
+      "title": "Pabellón E, puestos 5007, 5037 y 5038.",
+      "body": "Mercabarna reúne a buena parte del comercio mayorista alimentario de Cataluña y es punto de encuentro de compradores de toda España y de otros países. Estar allí nos permite tratar directamente con proveedores y clientes cada día."
+    },
+    "howWeWork": {
+      "eyebrow": "Forma de trabajar",
+      "title": "Del origen al comprador, paso a paso.",
+      "steps": [
+        {
+          "title": "Compra en origen",
+          "text": "Compramos a productores y proveedores que conocemos, principalmente en España."
+        },
+        {
+          "title": "Recepción en Mercabarna",
+          "text": "Los proveedores hacen llegar la mercancía a nuestros puestos de Mercabarna."
+        },
+        {
+          "title": "Selección",
+          "text": "Revisamos el género y orientamos a cada cliente hacia el producto que mejor se ajusta a su necesidad."
+        },
+        {
+          "title": "Venta y recogida",
+          "text": "Vendemos por cajas, palés y operaciones de volumen. El cliente retira la mercancía en Mercabarna con su propio transporte."
+        }
+      ]
+    },
+    "producers": {
+      "eyebrow": "Relaciones con productores",
+      "title": "Relaciones que se construyen campaña a campaña.",
+      "body": "Mantenemos un trato cercano con productores y proveedores de calidad. Estas relaciones, construidas con el tiempo, nos dan acceso a buen género y nos permiten detectar oportunidades de compra. También trabajamos algunos productos propios."
+    },
+    "selection": {
+      "eyebrow": "Selección del producto",
+      "title": "El producto adecuado para cada cliente.",
+      "body": "No todos los compradores necesitan lo mismo. Escuchamos qué busca cada cliente y le orientamos hacia el género que encaja con su canal, su cliente final y su momento de compra."
+    },
+    "market": {
+      "eyebrow": "Conocimiento del mercado",
+      "title": "Leer cada campaña.",
+      "body": "El surtido cambia según la temporada, el clima, las campañas agrícolas y la oferta disponible. Seguir el mercado de cerca nos permite adaptarnos y trabajar distintos productos según la demanda."
+    },
+    "philosophy": {
+      "eyebrow": "Filosofía comercial",
+      "title": "Experiencia, selección y confianza en cada campaña.",
+      "values": [
+        {
+          "title": "Calidad de producto",
+          "text": "Buena selección de frutas y hortalizas, apoyada en el conocimiento del mercado."
+        },
+        {
+          "title": "Relación con el origen",
+          "text": "Relaciones estrechas y duraderas con productores y proveedores."
+        },
+        {
+          "title": "Adaptabilidad",
+          "text": "Capacidad de trabajar diferentes productos y campañas según la demanda."
+        },
+        {
+          "title": "Confianza",
+          "text": "Relaciones comerciales a largo plazo, basadas en el trato directo y en cumplir lo acordado."
+        }
+      ]
+    },
+    "cta": {
+      "title": "¿Quieres trabajar con nosotros?",
+      "body": "Tanto si compras como si produces, estaremos encantados de conocerte."
+    }
+  },
+  "products": {
+    "hero": {
+      "eyebrow": "Productos",
+      "title": "Cada temporada, lo mejor de cada origen.",
+      "lead": "Comercializamos frutas y hortalizas para compradores profesionales. El surtido cambia con cada campaña: estas son algunas de las referencias y familias de producto con las que trabajamos."
+    },
+    "featuredTitle": "Especialidades destacadas",
+    "featuredBody": "Productos especialmente relevantes en nuestras campañas. Su disponibilidad depende de la temporada.",
+    "categoriesTitle": "Familias de producto",
+    "categoriesBody": "Categorías orientativas de nuestro surtido. No todas están disponibles en todo momento.",
+    "otherTitle": "Otras referencias habituales",
+    "seasonLabel": "Temporada orientativa",
+    "categoryLabel": "Familia",
+    "askCta": "Consultar disponibilidad",
+    "jumpTo": "Ir a la familia",
+    "categories": {
+      "seasonal": {
+        "name": "Frutas de temporada",
+        "description": "Fruta de hueso, de pepita y otras frutas que entran y salen del surtido según la campaña."
+      },
+      "citrus": {
+        "name": "Cítricos",
+        "description": "Mandarinas, naranjas y otros cítricos, con especial protagonismo en otoño e invierno."
+      },
+      "melons": {
+        "name": "Melones y sandías",
+        "description": "Producto clave de las campañas de primavera y verano, en distintos tipos según el momento."
+      },
+      "vegetables": {
+        "name": "Hortalizas",
+        "description": "Berenjena, pimiento, calabacín y otras hortalizas de producción nacional."
+      },
+      "local": {
+        "name": "Producto de proximidad",
+        "description": "Género del Baix Llobregat y del entorno de Barcelona cuando la temporada lo permite."
+      },
+      "specialties": {
+        "name": "Otras especialidades",
+        "description": "Oportunidades de mercado y nuevas categorías. Pregúntanos por lo que buscas."
+      }
+    },
+    "items": {
+      "artichoke": {
+        "name": "Alcachofa del Prat",
+        "tag": "Proximidad",
+        "description": "Uno de nuestros productos más representativos, con una fuerte vinculación al territorio del Baix Llobregat. Un clásico de la temporada fría muy apreciado por el comprador exigente.",
+        "season": "Otoño – primavera"
+      },
+      "mandarin": {
+        "name": "Mandarina",
+        "tag": "Cítricos",
+        "description": "Producto especialmente importante en nuestra campaña 2026. Trabajamos distintos orígenes y momentos de campaña para dar continuidad a nuestros clientes.",
+        "season": "Otoño – invierno"
+      },
+      "melon": {
+        "name": "Melón",
+        "tag": "Melones y sandías",
+        "description": "Un producto relevante en determinadas campañas. Seleccionamos origen y momento de compra para ofrecer un melón a la altura de lo que espera el cliente final.",
+        "season": "Primavera – verano"
+      },
+      "eggplant": {
+        "name": "Berenjena",
+        "tag": "Hortalizas",
+        "description": "Una de nuestras referencias habituales. Hortaliza de producción nacional, con presencia continuada en nuestro surtido según campaña y origen.",
+        "season": "Según origen y campaña"
+      },
+      "pepper": {
+        "name": "Pimiento",
+        "tag": "Hortalizas",
+        "description": "Hortaliza de producción nacional en distintos tipos y colores, según la oferta de cada momento.",
+        "season": "Según origen y campaña"
+      },
+      "zucchini": {
+        "name": "Calabacín",
+        "tag": "Hortalizas",
+        "description": "Otra de las hortalizas habituales de nuestro surtido, procedente de diferentes zonas productoras de España.",
+        "season": "Según origen y campaña"
+      }
+    },
+    "cta": {
+      "title": "¿Buscas un producto concreto?",
+      "body": "Indícanos qué necesitas, en qué cantidad orientativa y para cuándo. Te diremos qué podemos ofrecerte esta campaña."
+    }
+  },
+  "professionals": {
+    "hero": {
+      "eyebrow": "Para profesionales",
+      "title": "Frutas y hortalizas al por mayor para quien compra en serio.",
+      "lead": "Atendemos a mayoristas, distribuidores, supermercados, cadenas de alimentación, empresas del sector y compradores internacionales que buscan producto seleccionado y un interlocutor fiable en Mercabarna."
+    },
+    "audience": {
+      "eyebrow": "Con quién trabajamos",
+      "title": "Compradores profesionales, nacionales e internacionales.",
+      "list": [
+        {
+          "title": "Mayoristas",
+          "text": "Otros mayoristas de frutas y hortalizas que completan su surtido con nuestro producto."
+        },
+        {
+          "title": "Distribuidores",
+          "text": "Empresas de distribución alimentaria que necesitan continuidad y volumen."
+        },
+        {
+          "title": "Supermercados y cadenas",
+          "text": "Compradores de supermercados y cadenas de alimentación."
+        },
+        {
+          "title": "Compradores internacionales",
+          "text": "Empresas de otros países que compran en Mercabarna y organizan su propio transporte."
+        },
+        {
+          "title": "Empresas alimentarias",
+          "text": "Empresas de comercialización y del sector de la alimentación."
+        }
+      ]
+    },
+    "offer": {
+      "eyebrow": "Qué comercializamos",
+      "title": "Un surtido que sigue a la temporada.",
+      "body": "Frutas y hortalizas principalmente de origen español, con referencias destacadas como la Alcachofa del Prat, la mandarina, el melón o la berenjena. El surtido cambia según la campaña, los proveedores disponibles y las oportunidades de mercado."
+    },
+    "advantages": {
+      "eyebrow": "Por qué trabajar con nosotros",
+      "title": "Lo que aportamos a tu compra.",
+      "list": [
+        {
+          "title": "Calidad de producto",
+          "text": "Selección basada en el conocimiento del producto y del mercado."
+        },
+        {
+          "title": "Relación con el origen",
+          "text": "Proveedores y productores con los que trabajamos de forma estrecha y continuada."
+        },
+        {
+          "title": "Experiencia",
+          "text": "Unas tres décadas en el comercio mayorista hortofrutícola."
+        },
+        {
+          "title": "Adaptabilidad",
+          "text": "Diferentes productos y campañas según demanda y oportunidades."
+        },
+        {
+          "title": "Ubicación",
+          "text": "Presencia física en Mercabarna, uno de los grandes mercados mayoristas de Europa."
+        },
+        {
+          "title": "Trato directo",
+          "text": "Relaciones comerciales a largo plazo, con un interlocutor que conoce tu negocio."
+        }
+      ]
+    },
+    "model": {
+      "eyebrow": "Modelo de compraventa",
+      "title": "Cómo trabajamos con nuestros clientes.",
+      "steps": [
+        {
+          "title": "Consulta",
+          "text": "Nos cuentas qué producto buscas, en qué volumen orientativo y para cuándo."
+        },
+        {
+          "title": "Propuesta",
+          "text": "Te informamos de la disponibilidad de la campaña y de las condiciones de cada operación."
+        },
+        {
+          "title": "Venta",
+          "text": "Trabajamos por cajas, palés y operaciones de volumen."
+        },
+        {
+          "title": "Recogida en Mercabarna",
+          "text": "Retiras la mercancía en nuestros puestos con tu propio vehículo, transportista o camión contratado."
+        }
+      ]
+    },
+    "pickup": {
+      "eyebrow": "Ubicación y recogida",
+      "title": "La mercancía se retira en Mercabarna.",
+      "body": "La recogida se realiza habitualmente en nuestros puestos del pabellón E de Mercabarna. Cada cliente organiza su transporte, ya sea con vehículo propio, con un transportista o con un camión contratado, también en las operaciones internacionales.",
+      "note": "Fruites del Baix Llobregat no presta servicio de transporte ni de reparto."
+    },
+    "communication": {
+      "eyebrow": "Comunicación comercial",
+      "title": "Un interlocutor directo.",
+      "body": "Preferimos el trato directo: teléfono, email y conversación en el mercado. Si es tu primera compra, utiliza el formulario y nuestro equipo comercial se pondrá en contacto contigo."
+    },
+    "form": {
+      "eyebrow": "Formulario para compradores",
+      "title": "Solicita información o disponibilidad.",
+      "body": "Cuantos más detalles nos des, mejor podremos responderte. Los campos marcados con * son obligatorios."
+    }
+  },
+  "suppliers": {
+    "hero": {
+      "eyebrow": "Productores y proveedores",
+      "title": "Creemos en las relaciones que empiezan con un buen producto.",
+      "lead": "Buscamos productores y proveedores de frutas y hortalizas que quieran llegar a compradores profesionales a través de un canal mayorista en Mercabarna."
+    },
+    "who": {
+      "eyebrow": "A quién buscamos",
+      "title": "Si cultivas o comercializas buen género, queremos conocerte.",
+      "list": [
+        "Productores agrícolas",
+        "Cooperativas",
+        "Empresas hortofrutícolas",
+        "Comercializadores en origen",
+        "Proveedores de nuevas categorías",
+        "Empresas que buscan un canal mayorista en Mercabarna"
+      ]
+    },
+    "values": {
+      "eyebrow": "Qué valoramos",
+      "title": "Buen género y relaciones de confianza.",
+      "list": [
+        {
+          "title": "Calidad constante",
+          "text": "Producto bien cultivado, bien presentado y con una calidad que se mantiene a lo largo de la campaña."
+        },
+        {
+          "title": "Información clara",
+          "text": "Origen, calendario de campaña y volúmenes orientativos explicados con transparencia."
+        },
+        {
+          "title": "Visión a largo plazo",
+          "text": "Interés en construir una relación que crezca campaña a campaña."
+        }
+      ]
+    },
+    "process": {
+      "eyebrow": "Cómo funciona",
+      "title": "Del primer contacto a la primera campaña.",
+      "steps": [
+        {
+          "title": "Preséntanos tu producto",
+          "text": "Completa el formulario con tu producto, origen, campaña y volumen aproximado."
+        },
+        {
+          "title": "Lo valoramos",
+          "text": "Nuestro equipo revisa la información y valora si encaja con nuestros clientes y nuestro surtido."
+        },
+        {
+          "title": "Conversamos",
+          "text": "Si hay encaje, te contactamos para conocer mejor tu producto y hablar de cómo trabajar juntos."
+        }
+      ],
+      "note": "Revisamos con interés cada propuesta. Enviar el formulario no implica un compromiso de compra por ninguna de las partes."
+    },
+    "form": {
+      "eyebrow": "Formulario para proveedores",
+      "title": "Preséntanos tu producto.",
+      "body": "Los campos marcados con * son obligatorios."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contacto",
+      "title": "Hablemos de producto.",
+      "lead": "Nuestro equipo comercial atiende a compradores profesionales y a productores y proveedores. Elige el canal que prefieras."
+    },
+    "info": {
+      "title": "Datos de contacto",
+      "company": "Empresa",
+      "location": "Ubicación",
+      "locationValue": "Mercabarna, pabellón E",
+      "stallsLabel": "Puestos",
+      "postal": "08040 Barcelona, España"
+    },
+    "map": {
+      "title": "Mapa de Mercabarna",
+      "consent": "El mapa interactivo se carga desde Google Maps, que puede instalar cookies propias.",
+      "load": "Cargar mapa",
+      "iframeTitle": "Ubicación de Mercabarna en Google Maps"
+    },
+    "shortcuts": {
+      "title": "¿Ya sabes lo que buscas?",
+      "buyer": "Formulario para compradores",
+      "supplier": "Formulario para productores y proveedores"
+    },
+    "form": {
+      "title": "Escríbenos",
+      "body": "Los campos marcados con * son obligatorios."
+    }
+  },
+  "forms": {
+    "required": "obligatorio",
+    "optional": "opcional",
+    "fields": {
+      "company": "Empresa",
+      "companyOrProducer": "Empresa o productor",
+      "name": "Nombre",
+      "contactName": "Nombre de contacto",
+      "email": "Email",
+      "phone": "Teléfono",
+      "country": "País",
+      "countryRegion": "País y región",
+      "buyerType": "Tipo de comprador",
+      "products": "Productos de interés",
+      "productsOffered": "Productos ofrecidos",
+      "origin": "Origen",
+      "season": "Temporada o calendario de campaña",
+      "volume": "Volumen orientativo",
+      "volumeAvailable": "Volumen aproximado disponible",
+      "message": "Mensaje",
+      "profile": "Me pongo en contacto como"
+    },
+    "placeholders": {
+      "products": "Ej.: alcachofa, mandarina, melón…",
+      "productsOffered": "Ej.: berenjena, pimiento…",
+      "origin": "Ej.: Almería, Baix Llobregat…",
+      "season": "Ej.: de noviembre a marzo",
+      "volume": "Ej.: 2 palés por semana",
+      "volumeAvailable": "Ej.: 5 palés semanales en plena campaña",
+      "countryRegion": "Ej.: España, Murcia"
+    },
+    "buyerTypes": {
+      "placeholder": "Selecciona una opción",
+      "wholesaler": "Mayorista",
+      "distributor": "Distribuidor",
+      "supermarket": "Supermercado o cadena de alimentación",
+      "foodCompany": "Empresa de comercialización alimentaria",
+      "international": "Comprador internacional",
+      "foodservice": "Restauración u otro profesional",
+      "other": "Otro"
+    },
+    "profiles": {
+      "buyer": "Comprador profesional",
+      "supplier": "Productor o proveedor",
+      "other": "Otro motivo"
+    },
+    "privacy": "He leído y acepto la <link>política de privacidad</link>. Mis datos se usarán únicamente para responder a esta solicitud.",
+    "submit": "Enviar solicitud",
+    "submitting": "Enviando…",
+    "success": {
+      "title": "Solicitud enviada",
+      "body": "Gracias. Hemos recibido tu mensaje y nuestro equipo comercial se pondrá en contacto contigo."
+    },
+    "errors": {
+      "summary": "Revisa los campos marcados.",
+      "required": "Este campo es obligatorio.",
+      "email": "Introduce un email válido.",
+      "tooLong": "El texto es demasiado largo.",
+      "privacy": "Debes aceptar la política de privacidad.",
+      "notConfigured": "El envío de formularios aún no está activo. Escríbenos a {email} o llámanos al {phone}.",
+      "rateLimited": "Has enviado varias solicitudes seguidas. Espera unos minutos e inténtalo de nuevo.",
+      "generic": "No se ha podido enviar la solicitud. Inténtalo de nuevo o escríbenos a {email}."
+    },
+    "honeypot": "No rellenes este campo"
+  },
+  "footer": {
+    "description": "Comercio mayorista de frutas y hortalizas en Mercabarna. Producto seleccionado para compradores profesionales, nacionales e internacionales.",
+    "navTitle": "Navegación",
+    "contactTitle": "Contacto",
+    "legalTitle": "Información legal",
+    "languagesTitle": "Idiomas",
+    "legalNotice": "Aviso legal",
+    "privacy": "Política de privacidad",
+    "cookies": "Política de cookies",
+    "cookieSettings": "Configurar cookies",
+    "rights": "Todos los derechos reservados.",
+    "photoNote": "Fotografías ilustrativas."
+  },
+  "consent": {
+    "title": "Cookies analíticas",
+    "body": "Utilizamos cookies analíticas opcionales para saber cómo se usa la web y mejorarla. Solo se activan si las aceptas.",
+    "accept": "Aceptar",
+    "reject": "Rechazar",
+    "more": "Más información"
+  },
+  "legal": {
+    "legalNotice": {
+      "title": "Aviso legal",
+      "sections": [
+        {
+          "title": "Titular del sitio web",
+          "body": "En cumplimiento de la Ley 34/2002, de servicios de la sociedad de la información y de comercio electrónico (LSSI), se informa de que este sitio web es titularidad de {company}, con domicilio comercial en Mercabarna, pabellón E, 08040 Barcelona (España). Email: {email}. Teléfono: {phone}."
+        },
+        {
+          "title": "Objeto",
+          "body": "Este sitio web ofrece información corporativa y comercial sobre la actividad de comercio mayorista de frutas y hortalizas de la empresa, dirigida a profesionales del sector. No se realizan ventas a través del sitio web."
+        },
+        {
+          "title": "Condiciones de uso",
+          "body": "El acceso al sitio web es gratuito e implica la aceptación de estas condiciones. El usuario se compromete a hacer un uso adecuado de los contenidos y a no utilizarlos para actividades ilícitas o contrarias a la buena fe."
+        },
+        {
+          "title": "Propiedad intelectual e industrial",
+          "body": "Los textos, el diseño, el logotipo y los demás elementos propios del sitio web pertenecen a su titular o se utilizan con la licencia correspondiente. Las fotografías de producto son ilustrativas y proceden de bancos de imágenes con licencia de uso. Queda prohibida su reproducción sin autorización."
+        },
+        {
+          "title": "Responsabilidad",
+          "body": "La información sobre productos es orientativa: el surtido y la disponibilidad varían según temporada y campaña. El titular no se responsabiliza del uso que terceros hagan de la información publicada ni de los contenidos de sitios web enlazados."
+        },
+        {
+          "title": "Legislación aplicable",
+          "body": "Este aviso legal se rige por la legislación española."
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Política de privacidad",
+      "sections": [
+        {
+          "title": "Responsable del tratamiento",
+          "body": "{company}. Domicilio comercial: Mercabarna, pabellón E, 08040 Barcelona (España). Email de contacto: {email}."
+        },
+        {
+          "title": "Datos que tratamos",
+          "body": "Los datos que nos facilitas en los formularios de contacto, de compradores y de proveedores: nombre, empresa, email, teléfono (opcional), país y la información comercial que decidas incluir. Te pedimos que no incluyas datos que no sean necesarios para tu consulta."
+        },
+        {
+          "title": "Finalidad",
+          "body": "Atender tu solicitud y, en su caso, gestionar la relación comercial derivada de ella. No utilizamos tus datos para enviarte comunicaciones comerciales no solicitadas."
+        },
+        {
+          "title": "Base jurídica",
+          "body": "Tu consentimiento al enviar el formulario y, cuando corresponda, la aplicación de medidas precontractuales a petición tuya (art. 6.1.a y 6.1.b del RGPD)."
+        },
+        {
+          "title": "Conservación",
+          "body": "Conservamos los datos el tiempo necesario para atender la solicitud y, después, durante los plazos legalmente exigibles."
+        },
+        {
+          "title": "Destinatarios y encargados",
+          "body": "No cedemos tus datos a terceros salvo obligación legal. Para el funcionamiento de la web y el envío de los formularios utilizamos proveedores tecnológicos (alojamiento web y servicio de correo electrónico) que actúan como encargados del tratamiento con las garantías adecuadas."
+        },
+        {
+          "title": "Tus derechos",
+          "body": "Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad escribiendo a {email}. También puedes presentar una reclamación ante la Agencia Española de Protección de Datos (www.aepd.es)."
+        },
+        {
+          "title": "Seguridad",
+          "body": "Aplicamos medidas técnicas y organizativas razonables para proteger los datos, como la transmisión cifrada (HTTPS) y la minimización de los datos recogidos. Los formularios no almacenan los mensajes en ninguna base de datos de la web."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Política de cookies",
+      "sections": [
+        {
+          "title": "Qué son las cookies",
+          "body": "Las cookies son pequeños archivos que un sitio web guarda en tu navegador. Algunas son necesarias para que la web funcione y otras sirven, por ejemplo, para medir su uso."
+        },
+        {
+          "title": "Cookies técnicas",
+          "body": "Utilizamos una cookie técnica (NEXT_LOCALE) para recordar el idioma elegido y almacenamiento local para recordar tus preferencias de cookies. Son necesarias y no requieren consentimiento."
+        },
+        {
+          "title": "Cookies analíticas",
+          "body": "Si en el futuro se activa Google Analytics, solo se cargará después de que lo aceptes en el aviso de cookies. Puedes cambiar tu decisión en cualquier momento desde el enlace «Configurar cookies» del pie de página."
+        },
+        {
+          "title": "Contenidos de terceros",
+          "body": "El mapa de la página de contacto se carga desde Google Maps únicamente cuando pulsas «Cargar mapa». Google puede instalar sus propias cookies; consulta su política en policies.google.com."
+        },
+        {
+          "title": "Cómo desactivarlas",
+          "body": "Puedes eliminar o bloquear las cookies desde la configuración de tu navegador."
+        }
+      ]
+    }
+  },
+  "images": {
+    "heroMarket": "Puesto de mercado con gran variedad de frutas y hortalizas frescas",
+    "mandarinTree": "Mandarino cargado de fruta madura en el campo",
+    "artichokes": "Caja de alcachofas frescas con sus tallos",
+    "melon": "Melón partido por la mitad sobre fondo verde",
+    "eggplant": "Berenjena morada brillante",
+    "mandarins": "Mandarinas con hojas verdes",
+    "citrusPile": "Montón de mandarinas y naranjas",
+    "watermelon": "Sandía entera y una porción cortada",
+    "peppers": "Pimientos rojos, naranjas y verdes",
+    "vegetableStall": "Puesto de hortalizas con calabacines, pimientos y coles",
+    "vegetableBaskets": "Cestas con brócoli, judías verdes, calabacines y zanahorias",
+    "peachTree": "Melocotones madurando en el árbol",
+    "tomatoes": "Tomates en rama apilados",
+    "localCrates": "Cajas de madera con puerros y zanahorias recién cosechados",
+    "potatoCrates": "Cajas de patatas en un mercado",
+    "mixedFruit": "Composición de frutas variadas: cítricos, piña, papaya, uvas y aguacates",
+    "carrotCrate": "Caja de madera con zanahorias frescas",
+    "eggplantFlower": "Flor de la planta de berenjena en el cultivo",
+    "retailShelves": "Lineal de frutas y hortalizas en un supermercado",
+    "farmer": "Agricultora trabajando en un campo de cultivo",
+    "cropRows": "Hileras de cultivo en un campo agrícola"
+  },
+  "notFound": {
+    "title": "Esta página no existe.",
+    "body": "Es posible que la dirección haya cambiado. Puedes volver al inicio o consultar nuestros productos.",
+    "home": "Volver al inicio"
+  }
+}

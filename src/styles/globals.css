@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+/* ── Identidad: paleta corporativa (ajustable aquí) ───────────────────── */
+@theme {
+  --color-forest: #193d30;
+  --color-forest-deep: #10291f;
+  --color-forest-soft: #2a5243;
+  --color-ivory: #f3efe5;
+  --color-ivory-deep: #e8e1d1;
+  --color-paper: #fbf9f4;
+  --color-sage: #b9c8a9;
+  --color-sage-soft: #dce4d2;
+  --color-ochre: #d8a34d;
+  --color-ochre-ink: #85570f; /* ocre con contraste AA sobre marfil */
+  --color-graphite: #2d302b;
+  --color-stone: #5d6158; /* texto secundario, AA sobre marfil */
+  --color-leaf: #5e9a5a; /* verde del logotipo */
+
+  --font-display: var(--font-fraunces), "Iowan Old Style", Georgia, serif;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --ease-out-soft: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    scroll-padding-top: 6rem;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    html { scroll-behavior: smooth; }
+  }
+  body {
+    background-color: var(--color-ivory);
+    color: var(--color-graphite);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  h1, h2, h3, .font-display {
+    font-family: var(--font-display);
+    font-optical-sizing: auto;
+    letter-spacing: -0.015em;
+    text-wrap: balance;
+  }
+  p { text-wrap: pretty; }
+  ::selection { background: var(--color-sage); color: var(--color-forest-deep); }
+
+  :focus-visible {
+    outline: 3px solid var(--color-ochre);
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
+}
+
+/* ── Aparición de secciones (solo con JS activo y sin reduced-motion) ── */
+@media (scripting: enabled) and (prefers-reduced-motion: no-preference) {
+  [data-reveal] {
+    opacity: 0;
+    transform: translate3d(0, 18px, 0);
+    transition: opacity 0.8s var(--ease-out-soft), transform 0.8s var(--ease-out-soft);
+    transition-delay: var(--reveal-delay, 0ms);
+  }
+  [data-reveal].is-visible {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* Entrada del hero */
+@media (prefers-reduced-motion: no-preference) {
+  .hero-image { animation: hero-zoom 2.4s var(--ease-out-soft) both; }
+  .hero-copy > * { animation: hero-rise 1s var(--ease-out-soft) both; }
+  .hero-copy > *:nth-child(2) { animation-delay: 0.08s; }
+  .hero-copy > *:nth-child(3) { animation-delay: 0.16s; }
+  .hero-copy > *:nth-child(4) { animation-delay: 0.24s; }
+}
+@keyframes hero-zoom { from { transform: scale(1.06); } to { transform: scale(1); } }
+@keyframes hero-rise { from { transform: translateY(14px); opacity: 0.001; } to { transform: none; opacity: 1; } }
+
+/* Textura sutil de papel para fondos marfil */
+.grain {
+  background-image: radial-gradient(rgba(25, 61, 48, 0.05) 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+
+/* Subrayado animado para enlaces editoriales */
+.link-underline {
+  background-image: linear-gradient(currentColor, currentColor);
+  background-size: 0% 1px;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 0.4s var(--ease-out-soft);
+}
+.link-underline:hover, .link-underline:focus-visible { background-size: 100% 1px; }
+
+/* Imágenes con zoom suave al pasar el ratón */
+.zoom-on-hover img { transition: transform 1.2s var(--ease-out-soft); }
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .zoom-on-hover:hover img { transform: scale(1.04); }
+}
