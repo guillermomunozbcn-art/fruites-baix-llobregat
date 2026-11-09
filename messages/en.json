@@ -1,0 +1,747 @@
+{
+  "meta": {
+    "siteName": "Fruites del Baix Llobregat",
+    "titleTemplate": "%s | Fruites del Baix Llobregat",
+    "home": {
+      "title": "Fruit and vegetable wholesaler at Mercabarna, Barcelona",
+      "description": "Wholesale fruit and vegetables at Mercabarna since 1995. Selected Spanish produce for wholesalers, distributors, supermarkets and international buyers."
+    },
+    "company": {
+      "title": "About us: fresh produce wholesalers at Mercabarna",
+      "description": "Meet Fruites del Baix Llobregat: three decades buying and selling fruit and vegetables at Mercabarna, Barcelona, built on close relationships with growers."
+    },
+    "products": {
+      "title": "Wholesale fruit and vegetables: seasonal produce",
+      "description": "Prat artichokes, mandarins, melons, aubergines and a range of fruit and vegetables that changes every season. Check availability for trade buyers."
+    },
+    "professionals": {
+      "title": "For trade buyers: wholesale fresh produce from Spain",
+      "description": "Wholesalers, distributors, supermarkets and international buyers: selected produce at Mercabarna, collected from our stands. Request information."
+    },
+    "suppliers": {
+      "title": "Growers and suppliers: a wholesale channel at Mercabarna",
+      "description": "Do you grow or market quality fruit and vegetables? Introduce your produce to Fruites del Baix Llobregat and let's discuss a business relationship."
+    },
+    "contact": {
+      "title": "Contact: Mercabarna, Pavilion E",
+      "description": "Contact the sales team at Fruites del Baix Llobregat, Mercabarna (Barcelona). Phone, email, location and enquiry form for buyers and suppliers."
+    },
+    "legalNotice": {
+      "title": "Legal notice",
+      "description": "Legal notice for the Fruites del Baix Llobregat, S.L. website."
+    },
+    "privacy": {
+      "title": "Privacy policy",
+      "description": "How Fruites del Baix Llobregat, S.L. processes personal data received through this website."
+    },
+    "cookies": {
+      "title": "Cookie policy",
+      "description": "Information about the cookies and similar technologies used on this website."
+    },
+    "notFound": {
+      "title": "Page not found",
+      "description": "The page you are looking for does not exist or has moved."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "company": "About us",
+    "products": "Products",
+    "professionals": "Trade buyers",
+    "suppliers": "Growers & suppliers",
+    "contact": "Contact",
+    "cta": "Check availability",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "mainNav": "Main navigation",
+    "skipToContent": "Skip to content",
+    "language": "Language",
+    "changeLanguage": "Change language",
+    "breadcrumb": "Breadcrumb",
+    "homeAria": "Fruites del Baix Llobregat — home"
+  },
+  "common": {
+    "discoverProducts": "Discover our products",
+    "contact": "Contact us",
+    "contactSales": "Contact our sales team",
+    "checkAvailability": "Check availability",
+    "workWithUs": "Work with us",
+    "iAmSupplier": "I'm a grower or supplier",
+    "requestInfo": "Request information",
+    "learnMore": "About the company",
+    "assortmentNotice": "Our range varies with the season and availability. Contact our team to find out which products are available this season.",
+    "since": "Since {year}",
+    "pavilion": "Pavilion {pavilion}",
+    "stalls": "Stands {stalls}",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "openInMaps": "Open in Google Maps",
+    "newWindow": "(opens in a new window)",
+    "b2bOnly": "Trade sales only"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Fruit and vegetable wholesalers · Mercabarna",
+      "title": "Quality starts at the source.",
+      "subtitle": "Selected fruit and vegetables for the trade. From Mercabarna, we connect good growers with large-volume buyers.",
+      "ctaPrimary": "Discover our products",
+      "ctaSecondary": "Contact us",
+      "facts": {
+        "since": "In the trade since 1995",
+        "location": "Mercabarna · Pavilion E",
+        "b2b": "Trade buyers only"
+      }
+    },
+    "intro": {
+      "eyebrow": "Who we are",
+      "title": "Fresh produce wholesale, driven by smart sourcing.",
+      "body1": "Fruites del Baix Llobregat is a fruit and vegetable wholesaler with stands at Mercabarna, Barcelona's central wholesale food market. We buy from growers and suppliers, mainly in Spain, and sell to professional buyers.",
+      "body2": "Our work starts long before the produce reaches the market: knowing the growing areas, choosing carefully who we buy from and offering each customer the right product for their business.",
+      "link": "About the company"
+    },
+    "featured": {
+      "eyebrow": "Seasonal specialities",
+      "title": "Produce with a name of its own.",
+      "body": "Some lines define our seasons. Alongside them, we trade a wide range of fruit and vegetables that changes throughout the year.",
+      "cta": "See all products"
+    },
+    "origin": {
+      "eyebrow": "Sourcing and selection",
+      "title": "Knowing how to buy is half the job.",
+      "body": "The quality of what we sell depends on where and from whom we buy. That is why we take time to get to know our suppliers and to check the produce we receive.",
+      "points": [
+        {
+          "title": "Sourcing",
+          "text": "We work with trusted growers and suppliers, mostly in Spain, and with local produce from the Baix Llobregat when the season allows."
+        },
+        {
+          "title": "Selection",
+          "text": "We check the produce arriving at our stands to offer each customer the product that best matches their needs."
+        },
+        {
+          "title": "Market",
+          "text": "We know how each season unfolds and help our customers anticipate changes in supply."
+        }
+      ]
+    },
+    "buyers": {
+      "eyebrow": "Who we sell to",
+      "title": "A partner for volume buyers.",
+      "body": "We work with professional buyers who need produce by the case and by the pallet, with continuity and direct contact.",
+      "list": [
+        "Fruit and vegetable wholesalers",
+        "Distribution companies",
+        "Supermarkets and grocery chains",
+        "Food trading companies",
+        "Domestic and international buyers"
+      ],
+      "cta": "Information for trade buyers"
+    },
+    "experience": {
+      "eyebrow": "Track record",
+      "yearLabel": "The year we started",
+      "title": "Three decades in the fruit and vegetable wholesale trade.",
+      "body": "Since 1995 we have seen the market, growing regions and buying habits change. What hasn't changed is how we work: knowing the produce, delivering on what we agree and looking after every business relationship."
+    },
+    "mercabarna": {
+      "eyebrow": "Based at Mercabarna",
+      "title": "At the heart of Barcelona's food supply.",
+      "body": "Our stands are in Pavilion E of Mercabarna, one of Europe's major wholesale food markets. This is where we receive produce from our suppliers and where our customers collect it.",
+      "pickupTitle": "How collection works",
+      "pickup": "Buyers collect their goods from our stands using their own vehicles, hauliers or hired trucks. International buyers also arrange their own transport from Mercabarna.",
+      "cta": "Getting here"
+    },
+    "producers": {
+      "eyebrow": "Relationships with growers",
+      "quote": "Good growers. Good produce. Strong relationships.",
+      "body": "Close, long-standing relationships with the people who grow and pack at source allow us to select good produce and find opportunities every season. That is the foundation of what we offer our customers."
+    },
+    "suppliersInvite": {
+      "eyebrow": "Growers and suppliers",
+      "title": "Have a great product? Let's talk.",
+      "body": "We are looking for growers, cooperatives and fresh produce companies seeking a wholesale channel at Mercabarna, including in new categories.",
+      "cta": "I'm a grower or supplier"
+    },
+    "contactCta": {
+      "eyebrow": "Sales enquiries",
+      "title": "Check what's available this season.",
+      "body": "Tell us what produce you need and we will let you know what we can offer.",
+      "ctaBuyer": "Check availability",
+      "ctaContact": "Contact us"
+    }
+  },
+  "company": {
+    "hero": {
+      "eyebrow": "About us",
+      "title": "Knowing the produce and the people who grow it.",
+      "lead": "We are a fruit and vegetable wholesaler based at Mercabarna. Our strength lies in knowing how to buy, selecting the right produce and connecting good growing regions with professional buyers."
+    },
+    "about": {
+      "eyebrow": "Who we are",
+      "title": "A Barcelona fresh produce wholesaler.",
+      "body1": "Fruites del Baix Llobregat, S.L. is a wholesale fruit and vegetable business. We buy from growers and suppliers, receive the produce at our stands in Mercabarna and sell it to wholesalers, distributors, supermarkets, grocery chains and international buyers.",
+      "body2": "Our name refers to a place, the Baix Llobregat, an area with a long market-gardening tradition near Barcelona. Today we handle a wide range of Spanish produce that changes with every season and with the opportunities the market offers."
+    },
+    "history": {
+      "eyebrow": "Track record",
+      "title": "In the wholesale trade since 1995.",
+      "body": "We have been buying and selling fruit and vegetables for around three decades. This experience lets us read each season, assess produce quickly and respond to what our customers need."
+    },
+    "mercabarna": {
+      "eyebrow": "Based at Mercabarna",
+      "title": "Pavilion E, stands 5007, 5037 and 5038.",
+      "body": "Mercabarna brings together much of Catalonia's wholesale food trade and is a meeting point for buyers from across Spain and abroad. Being there means we deal directly with suppliers and customers every day."
+    },
+    "howWeWork": {
+      "eyebrow": "How we work",
+      "title": "From source to buyer, step by step.",
+      "steps": [
+        {
+          "title": "Buying at source",
+          "text": "We buy from growers and suppliers we know, mainly in Spain."
+        },
+        {
+          "title": "Arrival at Mercabarna",
+          "text": "Suppliers deliver the produce to our stands at Mercabarna."
+        },
+        {
+          "title": "Selection",
+          "text": "We check the produce and guide each customer towards the product that best suits their needs."
+        },
+        {
+          "title": "Sale and collection",
+          "text": "We sell by the case, by the pallet and in volume. Customers collect their goods at Mercabarna with their own transport."
+        }
+      ]
+    },
+    "producers": {
+      "eyebrow": "Relationships with growers",
+      "title": "Relationships built season after season.",
+      "body": "We keep in close contact with quality growers and suppliers. These relationships, built over time, give us access to good produce and help us spot buying opportunities. We also handle some products of our own."
+    },
+    "selection": {
+      "eyebrow": "Product selection",
+      "title": "The right produce for every customer.",
+      "body": "Not every buyer needs the same thing. We listen to what each customer is looking for and point them to produce that fits their channel, their end customer and their buying window."
+    },
+    "market": {
+      "eyebrow": "Market knowledge",
+      "title": "Reading every season.",
+      "body": "Our range changes with the season, the weather, harvest campaigns and available supply. Following the market closely allows us to adapt and handle different products according to demand."
+    },
+    "philosophy": {
+      "eyebrow": "Our approach",
+      "title": "Experience, selection and trust, every season.",
+      "values": [
+        {
+          "title": "Product quality",
+          "text": "Careful selection of fruit and vegetables, backed by market knowledge."
+        },
+        {
+          "title": "Close to the source",
+          "text": "Close, long-standing relationships with growers and suppliers."
+        },
+        {
+          "title": "Adaptability",
+          "text": "Able to handle different products and seasons as demand changes."
+        },
+        {
+          "title": "Trust",
+          "text": "Long-term business relationships built on direct contact and delivering on what we agree."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Interested in working with us?",
+      "body": "Whether you buy or grow, we would be glad to hear from you."
+    }
+  },
+  "products": {
+    "hero": {
+      "eyebrow": "Products",
+      "title": "Every season, the best of each growing region.",
+      "lead": "We supply fruit and vegetables to professional buyers. Our range changes with every season: these are some of the lines and product groups we work with."
+    },
+    "featuredTitle": "Featured specialities",
+    "featuredBody": "Products that play a key role in our seasons. Availability depends on the time of year.",
+    "categoriesTitle": "Product groups",
+    "categoriesBody": "An indicative overview of our range. Not every group is available at all times.",
+    "otherTitle": "Other regular lines",
+    "seasonLabel": "Indicative season",
+    "categoryLabel": "Group",
+    "askCta": "Check availability",
+    "jumpTo": "Go to group",
+    "categories": {
+      "seasonal": {
+        "name": "Seasonal fruit",
+        "description": "Stone fruit, pome fruit and other fruit that come in and out of our range as the season progresses."
+      },
+      "citrus": {
+        "name": "Citrus",
+        "description": "Mandarins, oranges and other citrus fruit, especially important in autumn and winter."
+      },
+      "melons": {
+        "name": "Melons and watermelons",
+        "description": "Key lines in spring and summer, in different types depending on the time of season."
+      },
+      "vegetables": {
+        "name": "Vegetables",
+        "description": "Aubergines, peppers, courgettes and other Spanish-grown vegetables."
+      },
+      "local": {
+        "name": "Local produce",
+        "description": "Produce from the Baix Llobregat and the Barcelona area when the season allows."
+      },
+      "specialties": {
+        "name": "Other specialities",
+        "description": "Market opportunities and new categories. Ask us about what you are looking for."
+      }
+    },
+    "items": {
+      "artichoke": {
+        "name": "Prat artichoke",
+        "tag": "Local",
+        "description": "One of our most representative products, closely tied to the Baix Llobregat area. A cool-season classic, highly valued by discerning buyers.",
+        "season": "Autumn – spring"
+      },
+      "mandarin": {
+        "name": "Mandarin",
+        "tag": "Citrus",
+        "description": "A particularly important product in our 2026 season. We work with different growing areas and harvest windows to give our customers continuity.",
+        "season": "Autumn – winter"
+      },
+      "melon": {
+        "name": "Melon",
+        "tag": "Melons and watermelons",
+        "description": "A key line in certain seasons. We choose origin and timing carefully to offer melons that meet end-customer expectations.",
+        "season": "Spring – summer"
+      },
+      "eggplant": {
+        "name": "Aubergine",
+        "tag": "Vegetables",
+        "description": "One of our regular lines. Spanish-grown, with an ongoing presence in our range depending on the season and growing area.",
+        "season": "Depends on origin and season"
+      },
+      "pepper": {
+        "name": "Pepper",
+        "tag": "Vegetables",
+        "description": "Spanish-grown peppers in different types and colours, depending on what is available at the time.",
+        "season": "Depends on origin and season"
+      },
+      "zucchini": {
+        "name": "Courgette",
+        "tag": "Vegetables",
+        "description": "Another regular vegetable line in our range, sourced from different growing regions across Spain.",
+        "season": "Depends on origin and season"
+      }
+    },
+    "cta": {
+      "title": "Looking for a specific product?",
+      "body": "Tell us what you need, the approximate quantity and when. We will let you know what we can offer this season."
+    }
+  },
+  "professionals": {
+    "hero": {
+      "eyebrow": "For trade buyers",
+      "title": "Wholesale fruit and vegetables for serious buyers.",
+      "lead": "We serve wholesalers, distributors, supermarkets, grocery chains, food companies and international buyers looking for selected produce and a reliable partner at Mercabarna."
+    },
+    "audience": {
+      "eyebrow": "Who we work with",
+      "title": "Professional buyers, in Spain and abroad.",
+      "list": [
+        {
+          "title": "Wholesalers",
+          "text": "Other fruit and vegetable wholesalers who complete their range with our produce."
+        },
+        {
+          "title": "Distributors",
+          "text": "Food distribution companies that need continuity and volume."
+        },
+        {
+          "title": "Supermarkets and chains",
+          "text": "Buyers for supermarkets and grocery chains."
+        },
+        {
+          "title": "International buyers",
+          "text": "Companies from other countries that buy at Mercabarna and arrange their own transport."
+        },
+        {
+          "title": "Food companies",
+          "text": "Food trading companies and other businesses in the food sector."
+        }
+      ]
+    },
+    "offer": {
+      "eyebrow": "What we supply",
+      "title": "A range that follows the seasons.",
+      "body": "Fruit and vegetables mainly of Spanish origin, with key lines such as Prat artichokes, mandarins, melons and aubergines. Our range changes with the season, available suppliers and market opportunities."
+    },
+    "advantages": {
+      "eyebrow": "Why work with us",
+      "title": "What we bring to your buying.",
+      "list": [
+        {
+          "title": "Product quality",
+          "text": "Selection based on in-depth knowledge of produce and the market."
+        },
+        {
+          "title": "Close to the source",
+          "text": "Growers and suppliers we work with closely and consistently."
+        },
+        {
+          "title": "Experience",
+          "text": "Around three decades in the fresh produce wholesale trade."
+        },
+        {
+          "title": "Adaptability",
+          "text": "Different products and seasons according to demand and opportunities."
+        },
+        {
+          "title": "Location",
+          "text": "A physical presence at Mercabarna, one of Europe's major wholesale markets."
+        },
+        {
+          "title": "Direct contact",
+          "text": "Long-term business relationships, with a contact person who knows your business."
+        }
+      ]
+    },
+    "model": {
+      "eyebrow": "How buying works",
+      "title": "How we work with our customers.",
+      "steps": [
+        {
+          "title": "Enquiry",
+          "text": "Tell us what produce you are looking for, the approximate volume and when you need it."
+        },
+        {
+          "title": "Proposal",
+          "text": "We let you know what is available this season and the terms of each deal."
+        },
+        {
+          "title": "Sale",
+          "text": "We sell by the case, by the pallet and in volume."
+        },
+        {
+          "title": "Collection at Mercabarna",
+          "text": "You collect the goods from our stands with your own vehicle, haulier or hired truck."
+        }
+      ]
+    },
+    "pickup": {
+      "eyebrow": "Location and collection",
+      "title": "Goods are collected at Mercabarna.",
+      "body": "Collection normally takes place at our stands in Pavilion E, Mercabarna. Each customer arranges their own transport, whether their own vehicle, a haulier or a hired truck, including for international orders.",
+      "note": "Fruites del Baix Llobregat does not provide transport or delivery services."
+    },
+    "communication": {
+      "eyebrow": "Sales contact",
+      "title": "A direct line to our team.",
+      "body": "We prefer direct contact: phone, email and conversations at the market. If this is your first order, use the form and our sales team will get in touch."
+    },
+    "form": {
+      "eyebrow": "Buyer enquiry form",
+      "title": "Ask about availability.",
+      "body": "The more detail you give us, the better we can help. Fields marked * are required."
+    }
+  },
+  "suppliers": {
+    "hero": {
+      "eyebrow": "Growers and suppliers",
+      "title": "We believe the best relationships start with a good product.",
+      "lead": "We are looking for fruit and vegetable growers and suppliers who want to reach professional buyers through a wholesale channel at Mercabarna."
+    },
+    "who": {
+      "eyebrow": "Who we are looking for",
+      "title": "If you grow or market good produce, we would like to meet you.",
+      "list": [
+        "Growers",
+        "Cooperatives",
+        "Fresh produce companies",
+        "Packers and marketers at source",
+        "Suppliers of new categories",
+        "Companies looking for a wholesale channel at Mercabarna"
+      ]
+    },
+    "values": {
+      "eyebrow": "What we value",
+      "title": "Good produce and relationships built on trust.",
+      "list": [
+        {
+          "title": "Consistent quality",
+          "text": "Well-grown, well-presented produce with quality that holds up throughout the season."
+        },
+        {
+          "title": "Clear information",
+          "text": "Origin, season calendar and indicative volumes, explained transparently."
+        },
+        {
+          "title": "A long-term view",
+          "text": "An interest in building a relationship that grows season after season."
+        }
+      ]
+    },
+    "process": {
+      "eyebrow": "How it works",
+      "title": "From first contact to first season.",
+      "steps": [
+        {
+          "title": "Introduce your produce",
+          "text": "Fill in the form with your product, origin, season and approximate volume."
+        },
+        {
+          "title": "We assess it",
+          "text": "Our team reviews the information and considers whether it fits our customers and our range."
+        },
+        {
+          "title": "We talk",
+          "text": "If there is a fit, we will contact you to learn more about your produce and discuss working together."
+        }
+      ],
+      "note": "We review every proposal with interest. Submitting the form does not create a purchase commitment for either party."
+    },
+    "form": {
+      "eyebrow": "Supplier form",
+      "title": "Introduce your produce.",
+      "body": "Fields marked * are required."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Let's talk produce.",
+      "lead": "Our sales team works with professional buyers as well as growers and suppliers. Choose the channel that suits you best."
+    },
+    "info": {
+      "title": "Contact details",
+      "company": "Company",
+      "location": "Location",
+      "locationValue": "Mercabarna, Pavilion E",
+      "stallsLabel": "Stands",
+      "postal": "08040 Barcelona, Spain"
+    },
+    "map": {
+      "title": "Mercabarna map",
+      "consent": "The interactive map is loaded from Google Maps, which may set its own cookies.",
+      "load": "Load map",
+      "iframeTitle": "Mercabarna location on Google Maps"
+    },
+    "shortcuts": {
+      "title": "Already know what you need?",
+      "buyer": "Buyer enquiry form",
+      "supplier": "Grower and supplier form"
+    },
+    "form": {
+      "title": "Send us a message",
+      "body": "Fields marked * are required."
+    }
+  },
+  "forms": {
+    "required": "required",
+    "optional": "optional",
+    "fields": {
+      "company": "Company",
+      "companyOrProducer": "Company or grower",
+      "name": "Name",
+      "contactName": "Contact name",
+      "email": "Email",
+      "phone": "Phone",
+      "country": "Country",
+      "countryRegion": "Country and region",
+      "buyerType": "Type of buyer",
+      "products": "Products of interest",
+      "productsOffered": "Products offered",
+      "origin": "Origin",
+      "season": "Season or harvest calendar",
+      "volume": "Approximate volume",
+      "volumeAvailable": "Approximate volume available",
+      "message": "Message",
+      "profile": "I'm getting in touch as"
+    },
+    "placeholders": {
+      "products": "E.g. artichokes, mandarins, melons…",
+      "productsOffered": "E.g. aubergines, peppers…",
+      "origin": "E.g. Almería, Baix Llobregat…",
+      "season": "E.g. November to March",
+      "volume": "E.g. 2 pallets per week",
+      "volumeAvailable": "E.g. 5 pallets a week at peak season",
+      "countryRegion": "E.g. Spain, Murcia"
+    },
+    "buyerTypes": {
+      "placeholder": "Select an option",
+      "wholesaler": "Wholesaler",
+      "distributor": "Distributor",
+      "supermarket": "Supermarket or grocery chain",
+      "foodCompany": "Food trading company",
+      "international": "International buyer",
+      "foodservice": "Foodservice or other trade buyer",
+      "other": "Other"
+    },
+    "profiles": {
+      "buyer": "Trade buyer",
+      "supplier": "Grower or supplier",
+      "other": "Other"
+    },
+    "privacy": "I have read and accept the <link>privacy policy</link>. My details will only be used to respond to this enquiry.",
+    "submit": "Send enquiry",
+    "submitting": "Sending…",
+    "success": {
+      "title": "Enquiry sent",
+      "body": "Thank you. We have received your message and our sales team will be in touch."
+    },
+    "errors": {
+      "summary": "Please check the highlighted fields.",
+      "required": "This field is required.",
+      "email": "Please enter a valid email address.",
+      "tooLong": "This text is too long.",
+      "privacy": "You must accept the privacy policy.",
+      "notConfigured": "Online enquiries are not active yet. Please email us at {email} or call {phone}.",
+      "rateLimited": "You have sent several enquiries in a row. Please wait a few minutes and try again.",
+      "generic": "Your enquiry could not be sent. Please try again or email us at {email}."
+    },
+    "honeypot": "Do not fill in this field"
+  },
+  "footer": {
+    "description": "Wholesale fruit and vegetables at Mercabarna, Barcelona. Selected produce for professional buyers in Spain and abroad.",
+    "navTitle": "Navigation",
+    "contactTitle": "Contact",
+    "legalTitle": "Legal",
+    "languagesTitle": "Languages",
+    "legalNotice": "Legal notice",
+    "privacy": "Privacy policy",
+    "cookies": "Cookie policy",
+    "cookieSettings": "Cookie settings",
+    "rights": "All rights reserved.",
+    "photoNote": "Photographs for illustration purposes."
+  },
+  "consent": {
+    "title": "Analytics cookies",
+    "body": "We use optional analytics cookies to understand how the website is used and improve it. They are only activated if you accept them.",
+    "accept": "Accept",
+    "reject": "Reject",
+    "more": "Learn more"
+  },
+  "legal": {
+    "legalNotice": {
+      "title": "Legal notice",
+      "sections": [
+        {
+          "title": "Website owner",
+          "body": "In accordance with Spanish Law 34/2002 on information society services and e-commerce (LSSI), this website is owned by {company}, with business premises at Mercabarna, Pavilion E, 08040 Barcelona (Spain). Email: {email}. Phone: {phone}."
+        },
+        {
+          "title": "Purpose",
+          "body": "This website provides corporate and commercial information about the company's wholesale fruit and vegetable business, aimed at trade professionals. No sales are made through the website."
+        },
+        {
+          "title": "Terms of use",
+          "body": "Access to the website is free of charge and implies acceptance of these terms. Users agree to make appropriate use of the content and not to use it for unlawful purposes or in bad faith."
+        },
+        {
+          "title": "Intellectual and industrial property",
+          "body": "The texts, design, logo and other original elements of the website belong to its owner or are used under the corresponding licence. Product photographs are for illustration purposes and come from licensed image libraries. Reproduction without permission is prohibited."
+        },
+        {
+          "title": "Liability",
+          "body": "Product information is indicative: our range and availability vary with the season. The owner accepts no liability for the use third parties make of the published information or for the content of linked websites."
+        },
+        {
+          "title": "Applicable law",
+          "body": "This legal notice is governed by Spanish law."
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Privacy policy",
+      "sections": [
+        {
+          "title": "Data controller",
+          "body": "{company}. Business premises: Mercabarna, Pavilion E, 08040 Barcelona (Spain). Contact email: {email}."
+        },
+        {
+          "title": "Data we process",
+          "body": "The details you provide in our contact, buyer and supplier forms: name, company, email, phone (optional), country and any commercial information you choose to include. Please do not include data that is not needed for your enquiry."
+        },
+        {
+          "title": "Purpose",
+          "body": "To respond to your enquiry and, where applicable, to manage any resulting business relationship. We do not use your data to send you unsolicited marketing communications."
+        },
+        {
+          "title": "Legal basis",
+          "body": "Your consent when submitting the form and, where applicable, taking steps at your request prior to entering into a contract (Art. 6(1)(a) and 6(1)(b) GDPR)."
+        },
+        {
+          "title": "Retention",
+          "body": "We keep your data for as long as needed to handle your enquiry and thereafter for the periods required by law."
+        },
+        {
+          "title": "Recipients and processors",
+          "body": "We do not share your data with third parties unless required by law. To run the website and send form submissions we use technology providers (web hosting and email service) acting as data processors with appropriate safeguards."
+        },
+        {
+          "title": "Your rights",
+          "body": "You can exercise your rights of access, rectification, erasure, objection, restriction and portability by writing to {email}. You may also lodge a complaint with the Spanish Data Protection Agency (www.aepd.es)."
+        },
+        {
+          "title": "Security",
+          "body": "We apply reasonable technical and organisational measures to protect data, such as encrypted transmission (HTTPS) and data minimisation. Form messages are not stored in any website database."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Cookie policy",
+      "sections": [
+        {
+          "title": "What cookies are",
+          "body": "Cookies are small files that a website stores in your browser. Some are needed for the website to work, while others are used, for example, to measure how it is used."
+        },
+        {
+          "title": "Technical cookies",
+          "body": "We use one technical cookie (NEXT_LOCALE) to remember your chosen language and local storage to remember your cookie preferences. These are necessary and do not require consent."
+        },
+        {
+          "title": "Analytics cookies",
+          "body": "If Google Analytics is enabled in the future, it will only load after you accept it in the cookie notice. You can change your choice at any time via the “Cookie settings” link in the footer."
+        },
+        {
+          "title": "Third-party content",
+          "body": "The map on the contact page is loaded from Google Maps only when you click “Load map”. Google may set its own cookies; see its policy at policies.google.com."
+        },
+        {
+          "title": "How to disable them",
+          "body": "You can delete or block cookies in your browser settings."
+        }
+      ]
+    }
+  },
+  "images": {
+    "heroMarket": "Market stall with a wide variety of fresh fruit and vegetables",
+    "mandarinTree": "Mandarin tree laden with ripe fruit in the orchard",
+    "artichokes": "Crate of fresh artichokes with their stems",
+    "melon": "Melon cut in half on a green background",
+    "eggplant": "Glossy purple aubergine",
+    "mandarins": "Mandarins with green leaves",
+    "citrusPile": "Pile of mandarins and oranges",
+    "watermelon": "Whole watermelon and a cut slice",
+    "peppers": "Red, orange and green peppers",
+    "vegetableStall": "Vegetable stall with courgettes, peppers and cabbages",
+    "vegetableBaskets": "Baskets of broccoli, green beans, courgettes and carrots",
+    "peachTree": "Peaches ripening on the tree",
+    "tomatoes": "Stacked vine tomatoes",
+    "localCrates": "Wooden crates of freshly harvested leeks and carrots",
+    "potatoCrates": "Crates of potatoes at a market",
+    "mixedFruit": "Assorted fruit: citrus, pineapple, papaya, grapes and avocados",
+    "carrotCrate": "Wooden crate of fresh carrots",
+    "eggplantFlower": "Aubergine plant in flower in the field",
+    "retailShelves": "Fruit and vegetable display in a supermarket",
+    "farmer": "Farmer working in a cultivated field",
+    "cropRows": "Rows of crops in a farm field"
+  },
+  "notFound": {
+    "title": "This page doesn't exist.",
+    "body": "The address may have changed. You can go back to the home page or browse our products.",
+    "home": "Back to home"
+  }
+}

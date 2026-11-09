@@ -1,0 +1,564 @@
+{
+  "meta": {
+    "siteName": "Fruites del Baix Llobregat",
+    "titleTemplate": "%s | Fruites del Baix Llobregat",
+    "home": {
+      "title": "Hurtownia owoców i warzyw na Mercabarnie w Barcelonie",
+      "description": "Hurtowy handel owocami i warzywami na rynku Mercabarna od 1995 roku. Wyselekcjonowane hiszpańskie produkty dla hurtowni, dystrybutorów, sieci handlowych i kupców zagranicznych."
+    },
+    "company": {
+      "title": "O firmie: hurtownicy owoców i warzyw na Mercabarnie",
+      "description": "Poznaj Fruites del Baix Llobregat: trzy dekady zakupu i sprzedaży owoców i warzyw na Mercabarnie w Barcelonie, oparte na bliskiej współpracy z producentami."
+    },
+    "products": {
+      "title": "Owoce i warzywa hurtowo: produkty sezonowe",
+      "description": "Karczoch z El Prat, mandarynki, melony, bakłażany i asortyment owoców i warzyw zmieniający się z każdym sezonem. Sprawdź dostępność dla klientów biznesowych."
+    },
+    "professionals": {
+      "title": "Dla firm: hurtowy zakup owoców i warzyw z Hiszpanii",
+      "description": "Hurtownie, dystrybutorzy, supermarkety i kupcy zagraniczni: wyselekcjonowane produkty na Mercabarnie z odbiorem na naszych stoiskach. Zapytaj o ofertę."
+    },
+    "suppliers": {
+      "title": "Producenci i dostawcy: kanał hurtowy na Mercabarnie",
+      "description": "Uprawiasz lub sprzedajesz owoce i warzywa wysokiej jakości? Przedstaw swój produkt firmie Fruites del Baix Llobregat i porozmawiajmy o współpracy."
+    },
+    "contact": {
+      "title": "Kontakt: Mercabarna, pawilon E",
+      "description": "Skontaktuj się z działem handlowym Fruites del Baix Llobregat na Mercabarnie (Barcelona). Telefon, e-mail, lokalizacja i formularz dla kupców i dostawców."
+    },
+    "legalNotice": { "title": "Nota prawna", "description": "Nota prawna serwisu Fruites del Baix Llobregat, S.L." },
+    "privacy": { "title": "Polityka prywatności", "description": "W jaki sposób Fruites del Baix Llobregat, S.L. przetwarza dane osobowe otrzymane za pośrednictwem tej strony." },
+    "cookies": { "title": "Polityka cookies", "description": "Informacje o plikach cookies i podobnych technologiach używanych w tym serwisie." },
+    "notFound": { "title": "Nie znaleziono strony", "description": "Strona, której szukasz, nie istnieje lub zmieniła adres." }
+  },
+  "nav": {
+    "home": "Start",
+    "company": "O firmie",
+    "products": "Produkty",
+    "professionals": "Dla firm",
+    "suppliers": "Producenci i dostawcy",
+    "contact": "Kontakt",
+    "cta": "Zapytaj o dostępność",
+    "openMenu": "Otwórz menu",
+    "closeMenu": "Zamknij menu",
+    "mainNav": "Nawigacja główna",
+    "skipToContent": "Przejdź do treści",
+    "language": "Język",
+    "changeLanguage": "Zmień język",
+    "breadcrumb": "Ścieżka nawigacji",
+    "homeAria": "Fruites del Baix Llobregat — strona główna"
+  },
+  "common": {
+    "discoverProducts": "Poznaj nasze produkty",
+    "contact": "Kontakt",
+    "contactSales": "Skontaktuj się z działem handlowym",
+    "checkAvailability": "Zapytaj o dostępność",
+    "workWithUs": "Współpracuj z nami",
+    "iAmSupplier": "Jestem producentem lub dostawcą",
+    "requestInfo": "Poproś o informacje",
+    "learnMore": "Poznaj firmę",
+    "assortmentNotice": "Nasz asortyment zmienia się w zależności od sezonu i dostępności. Skontaktuj się z nami, aby poznać produkty dostępne w danej kampanii.",
+    "since": "Od {year} r.",
+    "pavilion": "Pawilon {pavilion}",
+    "stalls": "Stoiska {stalls}",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "address": "Adres",
+    "openInMaps": "Otwórz w Mapach Google",
+    "newWindow": "(otwiera się w nowym oknie)",
+    "b2bOnly": "Sprzedaż wyłącznie dla firm"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Hurtownicy owoców i warzyw · Mercabarna",
+      "title": "Jakość rodzi się u źródła.",
+      "subtitle": "Wyselekcjonowane owoce i warzywa dla profesjonalistów. Z Mercabarny łączymy dobrych producentów z dużymi odbiorcami.",
+      "ctaPrimary": "Poznaj nasze produkty",
+      "ctaSecondary": "Kontakt",
+      "facts": {
+        "since": "W branży od 1995 roku",
+        "location": "Mercabarna · Pawilon E",
+        "b2b": "Sprzedaż dla firm"
+      }
+    },
+    "intro": {
+      "eyebrow": "Kim jesteśmy",
+      "title": "Hurtowy handel owocami i warzywami oparty na umiejętnym zakupie.",
+      "body1": "Fruites del Baix Llobregat to hurtownia owoców i warzyw ze stoiskami na Mercabarnie, głównym rynku hurtowym żywności w Barcelonie. Kupujemy od producentów i dostawców, głównie z Hiszpanii, i sprzedajemy towar profesjonalnym odbiorcom.",
+      "body2": "Nasza praca zaczyna się na długo przed dotarciem towaru na rynek: znamy regiony upraw, starannie wybieramy, od kogo kupujemy, i oferujemy każdemu klientowi produkt dopasowany do jego działalności.",
+      "link": "Poznaj firmę"
+    },
+    "featured": {
+      "eyebrow": "Specjalności sezonu",
+      "title": "Produkty z własną historią.",
+      "body": "Niektóre produkty wyznaczają rytm naszych kampanii. Obok nich oferujemy szeroki asortyment owoców i warzyw, który zmienia się w ciągu roku.",
+      "cta": "Zobacz wszystkie produkty"
+    },
+    "origin": {
+      "eyebrow": "Pochodzenie i selekcja",
+      "title": "Umiejętny zakup to połowa sukcesu.",
+      "body": "Jakość tego, co sprzedajemy, zależy od tego, gdzie i od kogo kupujemy. Dlatego poświęcamy czas na poznanie naszych dostawców i kontrolę przyjmowanego towaru.",
+      "points": [
+        { "title": "Pochodzenie", "text": "Współpracujemy ze sprawdzonymi producentami i dostawcami, głównie z Hiszpanii, a w sezonie także z lokalnymi producentami z regionu Baix Llobregat." },
+        { "title": "Selekcja", "text": "Sprawdzamy towar trafiający na nasze stoiska, aby zaoferować każdemu klientowi produkt najlepiej odpowiadający jego potrzebom." },
+        { "title": "Rynek", "text": "Wiemy, jak przebiega każda kampania, i pomagamy klientom przewidywać zmiany podaży." }
+      ]
+    },
+    "buyers": {
+      "eyebrow": "Komu sprzedajemy",
+      "title": "Partner dla firm kupujących w dużych ilościach.",
+      "body": "Współpracujemy z profesjonalnymi odbiorcami, którzy potrzebują towaru w skrzynkach i na paletach, z ciągłością dostaw i bezpośrednim kontaktem.",
+      "list": [
+        "Hurtownie owoców i warzyw",
+        "Firmy dystrybucyjne",
+        "Supermarkety i sieci spożywcze",
+        "Firmy handlu artykułami spożywczymi",
+        "Kupcy krajowi i zagraniczni"
+      ],
+      "cta": "Informacje dla firm"
+    },
+    "experience": {
+      "eyebrow": "Doświadczenie",
+      "yearLabel": "Początek naszej działalności",
+      "title": "Trzy dekady w hurtowym handlu owocami i warzywami.",
+      "body": "Od 1995 roku obserwujemy, jak zmienia się rynek, regiony upraw i zwyczaje zakupowe. Niezmienny pozostaje nasz sposób pracy: znajomość produktu, dotrzymywanie ustaleń i dbałość o każdą relację handlową."
+    },
+    "mercabarna": {
+      "eyebrow": "Obecność na Mercabarnie",
+      "title": "W samym sercu zaopatrzenia Barcelony w żywność.",
+      "body": "Nasze stoiska znajdują się w pawilonie E Mercabarny, jednego z największych hurtowych rynków spożywczych w Europie. Tam przyjmujemy towar od dostawców i tam odbierają go nasi klienci.",
+      "pickupTitle": "Jak wygląda odbiór",
+      "pickup": "Kupujący odbierają towar z naszych stoisk własnym pojazdem, za pośrednictwem przewoźnika lub wynajętą ciężarówką. Kupcy zagraniczni również organizują własny transport z Mercabarny.",
+      "cta": "Jak dojechać"
+    },
+    "producers": {
+      "eyebrow": "Relacje z producentami",
+      "quote": "Dobrzy producenci. Dobry produkt. Trwałe relacje.",
+      "body": "Bliskie i długotrwałe relacje z tymi, którzy uprawiają i przygotowują towar u źródła, pozwalają nam wybierać dobry produkt i znajdować okazje w każdej kampanii. To fundament tego, co oferujemy klientom."
+    },
+    "suppliersInvite": {
+      "eyebrow": "Producenci i dostawcy",
+      "title": "Masz dobry produkt? Porozmawiajmy.",
+      "body": "Szukamy producentów, spółdzielni i firm z branży owocowo-warzywnej, które chcą sprzedawać przez kanał hurtowy na Mercabarnie, także w nowych kategoriach.",
+      "cta": "Jestem producentem lub dostawcą"
+    },
+    "contactCta": {
+      "eyebrow": "Kontakt handlowy",
+      "title": "Sprawdź dostępność w tej kampanii.",
+      "body": "Napisz, jakiego produktu potrzebujesz, a poinformujemy Cię, co możemy zaoferować.",
+      "ctaBuyer": "Zapytaj o dostępność",
+      "ctaContact": "Kontakt"
+    }
+  },
+  "company": {
+    "hero": {
+      "eyebrow": "O firmie",
+      "title": "Znać produkt i ludzi, którzy go uprawiają.",
+      "lead": "Jesteśmy hurtownią owoców i warzyw z siedzibą handlową na Mercabarnie. Naszą siłą jest umiejętność zakupu, wybór właściwego produktu i łączenie dobrych regionów upraw z profesjonalnymi odbiorcami."
+    },
+    "about": {
+      "eyebrow": "Kim jesteśmy",
+      "title": "Hurtownia owoców i warzyw z Barcelony.",
+      "body1": "Fruites del Baix Llobregat, S.L. zajmuje się hurtowym handlem owocami i warzywami. Kupujemy od producentów i dostawców, przyjmujemy towar na naszych stoiskach na Mercabarnie i sprzedajemy go hurtowniom, dystrybutorom, supermarketom, sieciom spożywczym i kupcom zagranicznym.",
+      "body2": "Nasza nazwa nawiązuje do regionu Baix Llobregat pod Barceloną, o długiej tradycji ogrodniczej. Dziś oferujemy szeroki asortyment hiszpańskich produktów, który zmienia się z każdym sezonem i wraz z okazjami rynkowymi."
+    },
+    "history": {
+      "eyebrow": "Doświadczenie",
+      "title": "W handlu hurtowym od 1995 roku.",
+      "body": "Od około trzech dekad kupujemy i sprzedajemy owoce i warzywa. To doświadczenie pozwala nam trafnie odczytywać każdą kampanię, szybko oceniać towar i odpowiadać na potrzeby klientów."
+    },
+    "mercabarna": {
+      "eyebrow": "Obecność na Mercabarnie",
+      "title": "Pawilon E, stoiska 5007, 5037 i 5038.",
+      "body": "Mercabarna skupia dużą część hurtowego handlu żywnością w Katalonii i jest miejscem spotkań kupców z całej Hiszpanii i z zagranicy. Dzięki obecności na rynku codziennie mamy bezpośredni kontakt z dostawcami i klientami."
+    },
+    "howWeWork": {
+      "eyebrow": "Jak pracujemy",
+      "title": "Od źródła do odbiorcy, krok po kroku.",
+      "steps": [
+        { "title": "Zakup u źródła", "text": "Kupujemy od znanych nam producentów i dostawców, głównie z Hiszpanii." },
+        { "title": "Przyjęcie na Mercabarnie", "text": "Dostawcy dostarczają towar na nasze stoiska na Mercabarnie." },
+        { "title": "Selekcja", "text": "Sprawdzamy towar i doradzamy każdemu klientowi produkt najlepiej odpowiadający jego potrzebom." },
+        { "title": "Sprzedaż i odbiór", "text": "Sprzedajemy w skrzynkach, na paletach i w dużych partiach. Klient odbiera towar na Mercabarnie własnym transportem." }
+      ]
+    },
+    "producers": {
+      "eyebrow": "Relacje z producentami",
+      "title": "Relacje budowane kampania po kampanii.",
+      "body": "Utrzymujemy bliski kontakt z rzetelnymi producentami i dostawcami. Te budowane latami relacje dają nam dostęp do dobrego towaru i pomagają dostrzegać okazje zakupowe. Oferujemy również niektóre produkty własne."
+    },
+    "selection": {
+      "eyebrow": "Selekcja produktów",
+      "title": "Właściwy produkt dla każdego klienta.",
+      "body": "Nie każdy odbiorca potrzebuje tego samego. Słuchamy, czego szuka klient, i proponujemy towar dopasowany do jego kanału sprzedaży, klienta końcowego i terminu zakupu."
+    },
+    "market": {
+      "eyebrow": "Znajomość rynku",
+      "title": "Umiejętność czytania każdej kampanii.",
+      "body": "Asortyment zmienia się w zależności od sezonu, pogody, kampanii zbiorów i dostępnej podaży. Uważne śledzenie rynku pozwala nam szybko się dostosowywać i oferować różne produkty w zależności od popytu."
+    },
+    "philosophy": {
+      "eyebrow": "Nasza filozofia",
+      "title": "Doświadczenie, selekcja i zaufanie w każdej kampanii.",
+      "values": [
+        { "title": "Jakość produktu", "text": "Staranna selekcja owoców i warzyw oparta na znajomości rynku." },
+        { "title": "Blisko źródła", "text": "Bliskie i długotrwałe relacje z producentami i dostawcami." },
+        { "title": "Elastyczność", "text": "Możliwość pracy z różnymi produktami i kampaniami w zależności od popytu." },
+        { "title": "Zaufanie", "text": "Długoterminowe relacje handlowe oparte na bezpośrednim kontakcie i dotrzymywaniu ustaleń." }
+      ]
+    },
+    "cta": {
+      "title": "Chcesz z nami współpracować?",
+      "body": "Niezależnie od tego, czy kupujesz, czy uprawiasz – chętnie Cię poznamy."
+    }
+  },
+  "products": {
+    "hero": {
+      "eyebrow": "Produkty",
+      "title": "W każdym sezonie to, co najlepsze z każdego regionu.",
+      "lead": "Sprzedajemy owoce i warzywa profesjonalnym odbiorcom. Asortyment zmienia się z każdą kampanią: oto niektóre produkty i grupy produktowe, z którymi pracujemy."
+    },
+    "featuredTitle": "Wyróżnione specjalności",
+    "featuredBody": "Produkty szczególnie ważne w naszych kampaniach. Ich dostępność zależy od sezonu.",
+    "categoriesTitle": "Grupy produktów",
+    "categoriesBody": "Orientacyjne kategorie naszego asortymentu. Nie wszystkie są dostępne przez cały czas.",
+    "otherTitle": "Inne stałe pozycje",
+    "seasonLabel": "Orientacyjny sezon",
+    "categoryLabel": "Grupa",
+    "askCta": "Zapytaj o dostępność",
+    "jumpTo": "Przejdź do grupy",
+    "categories": {
+      "seasonal": { "name": "Owoce sezonowe", "description": "Owoce pestkowe, ziarnkowe i inne, które pojawiają się w asortymencie w zależności od kampanii." },
+      "citrus": { "name": "Cytrusy", "description": "Mandarynki, pomarańcze i inne cytrusy, szczególnie ważne jesienią i zimą." },
+      "melons": { "name": "Melony i arbuzy", "description": "Kluczowe produkty kampanii wiosennych i letnich, w różnych odmianach zależnie od okresu." },
+      "vegetables": { "name": "Warzywa", "description": "Bakłażan, papryka, cukinia i inne warzywa z upraw hiszpańskich." },
+      "local": { "name": "Produkty lokalne", "description": "Produkty z regionu Baix Llobregat i okolic Barcelony, gdy pozwala na to sezon." },
+      "specialties": { "name": "Inne specjalności", "description": "Okazje rynkowe i nowe kategorie. Zapytaj nas o to, czego szukasz." }
+    },
+    "items": {
+      "artichoke": {
+        "name": "Karczoch z El Prat",
+        "tag": "Produkt lokalny",
+        "description": "Jeden z naszych najbardziej charakterystycznych produktów, silnie związany z regionem Baix Llobregat. Klasyk chłodnej pory roku, ceniony przez wymagających kupców.",
+        "season": "Jesień – wiosna"
+      },
+      "mandarin": {
+        "name": "Mandarynka",
+        "tag": "Cytrusy",
+        "description": "Produkt szczególnie ważny w naszej kampanii 2026. Pracujemy z różnymi regionami i okresami zbiorów, aby zapewnić klientom ciągłość dostaw.",
+        "season": "Jesień – zima"
+      },
+      "melon": {
+        "name": "Melon",
+        "tag": "Melony i arbuzy",
+        "description": "Ważny produkt w niektórych kampaniach. Starannie dobieramy pochodzenie i moment zakupu, aby oferować melony spełniające oczekiwania klienta końcowego.",
+        "season": "Wiosna – lato"
+      },
+      "eggplant": {
+        "name": "Bakłażan",
+        "tag": "Warzywa",
+        "description": "Jedna z naszych stałych pozycji. Warzywo z upraw hiszpańskich, stale obecne w asortymencie w zależności od kampanii i regionu.",
+        "season": "Zależnie od regionu i kampanii"
+      },
+      "pepper": {
+        "name": "Papryka",
+        "tag": "Warzywa",
+        "description": "Papryka z upraw hiszpańskich w różnych typach i kolorach, w zależności od bieżącej podaży.",
+        "season": "Zależnie od regionu i kampanii"
+      },
+      "zucchini": {
+        "name": "Cukinia",
+        "tag": "Warzywa",
+        "description": "Kolejne stałe warzywo w naszym asortymencie, pochodzące z różnych regionów uprawy w Hiszpanii.",
+        "season": "Zależnie od regionu i kampanii"
+      }
+    },
+    "cta": {
+      "title": "Szukasz konkretnego produktu?",
+      "body": "Napisz, czego potrzebujesz, w jakiej orientacyjnej ilości i na kiedy. Powiemy Ci, co możemy zaoferować w tej kampanii."
+    }
+  },
+  "professionals": {
+    "hero": {
+      "eyebrow": "Dla firm",
+      "title": "Owoce i warzywa hurtowo dla wymagających odbiorców.",
+      "lead": "Obsługujemy hurtownie, dystrybutorów, supermarkety, sieci spożywcze, firmy z branży oraz kupców zagranicznych, którzy szukają wyselekcjonowanego towaru i rzetelnego partnera na Mercabarnie."
+    },
+    "audience": {
+      "eyebrow": "Z kim współpracujemy",
+      "title": "Profesjonalni odbiorcy z Hiszpanii i z zagranicy.",
+      "list": [
+        { "title": "Hurtownie", "text": "Inne hurtownie owoców i warzyw, które uzupełniają swój asortyment naszymi produktami." },
+        { "title": "Dystrybutorzy", "text": "Firmy dystrybucji żywności, które potrzebują ciągłości dostaw i dużych wolumenów." },
+        { "title": "Supermarkety i sieci", "text": "Kupcy supermarketów i sieci spożywczych." },
+        { "title": "Kupcy zagraniczni", "text": "Firmy z innych krajów, które kupują na Mercabarnie i organizują własny transport." },
+        { "title": "Firmy spożywcze", "text": "Firmy handlowe i inne przedsiębiorstwa z branży spożywczej." }
+      ]
+    },
+    "offer": {
+      "eyebrow": "Co oferujemy",
+      "title": "Asortyment, który podąża za sezonem.",
+      "body": "Owoce i warzywa głównie pochodzenia hiszpańskiego, z wyróżnionymi produktami, takimi jak karczoch z El Prat, mandarynka, melon czy bakłażan. Asortyment zmienia się w zależności od kampanii, dostępnych dostawców i okazji rynkowych."
+    },
+    "advantages": {
+      "eyebrow": "Dlaczego warto z nami współpracować",
+      "title": "Co zyskujesz, kupując u nas.",
+      "list": [
+        { "title": "Jakość produktu", "text": "Selekcja oparta na znajomości produktu i rynku." },
+        { "title": "Blisko źródła", "text": "Producenci i dostawcy, z którymi współpracujemy ściśle i regularnie." },
+        { "title": "Doświadczenie", "text": "Około trzech dekad w hurtowym handlu owocami i warzywami." },
+        { "title": "Elastyczność", "text": "Różne produkty i kampanie w zależności od popytu i okazji rynkowych." },
+        { "title": "Lokalizacja", "text": "Fizyczna obecność na Mercabarnie, jednym z największych rynków hurtowych w Europie." },
+        { "title": "Bezpośredni kontakt", "text": "Długoterminowe relacje handlowe z opiekunem, który zna Twój biznes." }
+      ]
+    },
+    "model": {
+      "eyebrow": "Model współpracy",
+      "title": "Jak współpracujemy z klientami.",
+      "steps": [
+        { "title": "Zapytanie", "text": "Piszesz, jakiego produktu szukasz, w jakiej orientacyjnej ilości i na kiedy." },
+        { "title": "Oferta", "text": "Informujemy o dostępności w danej kampanii i warunkach każdej transakcji." },
+        { "title": "Sprzedaż", "text": "Sprzedajemy w skrzynkach, na paletach i w dużych partiach." },
+        { "title": "Odbiór na Mercabarnie", "text": "Odbierasz towar z naszych stoisk własnym pojazdem, przez przewoźnika lub wynajętą ciężarówką." }
+      ]
+    },
+    "pickup": {
+      "eyebrow": "Lokalizacja i odbiór",
+      "title": "Towar odbiera się na Mercabarnie.",
+      "body": "Odbiór odbywa się zazwyczaj na naszych stoiskach w pawilonie E Mercabarny. Każdy klient organizuje własny transport – własnym pojazdem, przez przewoźnika lub wynajętą ciężarówką – również w przypadku transakcji międzynarodowych.",
+      "note": "Fruites del Baix Llobregat nie świadczy usług transportowych ani dostaw."
+    },
+    "communication": {
+      "eyebrow": "Kontakt handlowy",
+      "title": "Bezpośredni kontakt.",
+      "body": "Stawiamy na bezpośredni kontakt: telefon, e-mail i rozmowę na rynku. Jeśli kupujesz u nas po raz pierwszy, skorzystaj z formularza, a nasz dział handlowy skontaktuje się z Tobą."
+    },
+    "form": {
+      "eyebrow": "Formularz dla kupujących",
+      "title": "Zapytaj o ofertę lub dostępność.",
+      "body": "Im więcej szczegółów podasz, tym lepiej odpowiemy. Pola oznaczone * są wymagane."
+    }
+  },
+  "suppliers": {
+    "hero": {
+      "eyebrow": "Producenci i dostawcy",
+      "title": "Wierzymy w relacje, które zaczynają się od dobrego produktu.",
+      "lead": "Szukamy producentów i dostawców owoców i warzyw, którzy chcą docierać do profesjonalnych odbiorców przez kanał hurtowy na Mercabarnie."
+    },
+    "who": {
+      "eyebrow": "Kogo szukamy",
+      "title": "Jeśli uprawiasz lub sprzedajesz dobry towar, chcemy Cię poznać.",
+      "list": [
+        "Producenci rolni",
+        "Spółdzielnie",
+        "Firmy z branży owocowo-warzywnej",
+        "Firmy handlowe działające u źródła",
+        "Dostawcy nowych kategorii",
+        "Firmy szukające kanału hurtowego na Mercabarnie"
+      ]
+    },
+    "values": {
+      "eyebrow": "Co cenimy",
+      "title": "Dobry towar i relacje oparte na zaufaniu.",
+      "list": [
+        { "title": "Stała jakość", "text": "Dobrze uprawiony i przygotowany produkt o jakości utrzymującej się przez całą kampanię." },
+        { "title": "Jasne informacje", "text": "Pochodzenie, kalendarz kampanii i orientacyjne wolumeny przedstawione w przejrzysty sposób." },
+        { "title": "Długoterminowa perspektywa", "text": "Chęć budowania relacji, która rozwija się z każdą kampanią." }
+      ]
+    },
+    "process": {
+      "eyebrow": "Jak to działa",
+      "title": "Od pierwszego kontaktu do pierwszej kampanii.",
+      "steps": [
+        { "title": "Przedstaw swój produkt", "text": "Wypełnij formularz, podając produkt, pochodzenie, kampanię i przybliżony wolumen." },
+        { "title": "Analizujemy ofertę", "text": "Nasz zespół analizuje informacje i ocenia, czy produkt pasuje do naszych klientów i asortymentu." },
+        { "title": "Rozmawiamy", "text": "Jeśli oferta do nas pasuje, skontaktujemy się, aby lepiej poznać Twój produkt i omówić współpracę." }
+      ],
+      "note": "Każdą propozycję analizujemy z uwagą. Wysłanie formularza nie oznacza zobowiązania zakupowego dla żadnej ze stron."
+    },
+    "form": {
+      "eyebrow": "Formularz dla dostawców",
+      "title": "Przedstaw nam swój produkt.",
+      "body": "Pola oznaczone * są wymagane."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Kontakt",
+      "title": "Porozmawiajmy o produktach.",
+      "lead": "Nasz dział handlowy obsługuje zarówno profesjonalnych odbiorców, jak i producentów oraz dostawców. Wybierz najwygodniejszy dla siebie kanał kontaktu."
+    },
+    "info": {
+      "title": "Dane kontaktowe",
+      "company": "Firma",
+      "location": "Lokalizacja",
+      "locationValue": "Mercabarna, pawilon E",
+      "stallsLabel": "Stoiska",
+      "postal": "08040 Barcelona, Hiszpania"
+    },
+    "map": {
+      "title": "Mapa Mercabarny",
+      "consent": "Interaktywna mapa jest ładowana z Map Google, które mogą zapisywać własne pliki cookies.",
+      "load": "Załaduj mapę",
+      "iframeTitle": "Lokalizacja Mercabarny w Mapach Google"
+    },
+    "shortcuts": {
+      "title": "Wiesz już, czego szukasz?",
+      "buyer": "Formularz dla kupujących",
+      "supplier": "Formularz dla producentów i dostawców"
+    },
+    "form": {
+      "title": "Napisz do nas",
+      "body": "Pola oznaczone * są wymagane."
+    }
+  },
+  "forms": {
+    "required": "wymagane",
+    "optional": "opcjonalnie",
+    "fields": {
+      "company": "Firma",
+      "companyOrProducer": "Firma lub producent",
+      "name": "Imię i nazwisko",
+      "contactName": "Osoba kontaktowa",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "country": "Kraj",
+      "countryRegion": "Kraj i region",
+      "buyerType": "Rodzaj odbiorcy",
+      "products": "Interesujące produkty",
+      "productsOffered": "Oferowane produkty",
+      "origin": "Pochodzenie",
+      "season": "Sezon lub kalendarz kampanii",
+      "volume": "Orientacyjny wolumen",
+      "volumeAvailable": "Przybliżony dostępny wolumen",
+      "message": "Wiadomość",
+      "profile": "Kontaktuję się jako"
+    },
+    "placeholders": {
+      "products": "Np. karczochy, mandarynki, melony…",
+      "productsOffered": "Np. bakłażan, papryka…",
+      "origin": "Np. Almería, Baix Llobregat…",
+      "season": "Np. od listopada do marca",
+      "volume": "Np. 2 palety tygodniowo",
+      "volumeAvailable": "Np. 5 palet tygodniowo w szczycie sezonu",
+      "countryRegion": "Np. Hiszpania, Murcja"
+    },
+    "buyerTypes": {
+      "placeholder": "Wybierz opcję",
+      "wholesaler": "Hurtownia",
+      "distributor": "Dystrybutor",
+      "supermarket": "Supermarket lub sieć spożywcza",
+      "foodCompany": "Firma handlu spożywczego",
+      "international": "Kupiec zagraniczny",
+      "foodservice": "Gastronomia lub inny profesjonalista",
+      "other": "Inne"
+    },
+    "profiles": {
+      "buyer": "Odbiorca biznesowy",
+      "supplier": "Producent lub dostawca",
+      "other": "Inna sprawa"
+    },
+    "privacy": "Przeczytałem/am i akceptuję <link>politykę prywatności</link>. Moje dane zostaną wykorzystane wyłącznie w celu odpowiedzi na to zapytanie.",
+    "submit": "Wyślij zapytanie",
+    "submitting": "Wysyłanie…",
+    "success": {
+      "title": "Zapytanie wysłane",
+      "body": "Dziękujemy. Otrzymaliśmy Twoją wiadomość, a nasz dział handlowy wkrótce się z Tobą skontaktuje."
+    },
+    "errors": {
+      "summary": "Sprawdź zaznaczone pola.",
+      "required": "To pole jest wymagane.",
+      "email": "Podaj prawidłowy adres e-mail.",
+      "tooLong": "Tekst jest zbyt długi.",
+      "privacy": "Musisz zaakceptować politykę prywatności.",
+      "notConfigured": "Wysyłanie formularzy nie jest jeszcze aktywne. Napisz do nas na {email} lub zadzwoń pod numer {phone}.",
+      "rateLimited": "Wysłano kilka zapytań z rzędu. Odczekaj kilka minut i spróbuj ponownie.",
+      "generic": "Nie udało się wysłać zapytania. Spróbuj ponownie lub napisz do nas na {email}."
+    },
+    "honeypot": "Nie wypełniaj tego pola"
+  },
+  "footer": {
+    "description": "Hurtowy handel owocami i warzywami na Mercabarnie w Barcelonie. Wyselekcjonowane produkty dla profesjonalnych odbiorców z Hiszpanii i z zagranicy.",
+    "navTitle": "Nawigacja",
+    "contactTitle": "Kontakt",
+    "legalTitle": "Informacje prawne",
+    "languagesTitle": "Języki",
+    "legalNotice": "Nota prawna",
+    "privacy": "Polityka prywatności",
+    "cookies": "Polityka cookies",
+    "cookieSettings": "Ustawienia cookies",
+    "rights": "Wszelkie prawa zastrzeżone.",
+    "photoNote": "Zdjęcia poglądowe."
+  },
+  "consent": {
+    "title": "Analityczne pliki cookies",
+    "body": "Używamy opcjonalnych analitycznych plików cookies, aby wiedzieć, jak korzystasz ze strony, i ją ulepszać. Są aktywowane tylko po wyrażeniu zgody.",
+    "accept": "Akceptuję",
+    "reject": "Odrzucam",
+    "more": "Więcej informacji"
+  },
+  "legal": {
+    "legalNotice": {
+      "title": "Nota prawna",
+      "sections": [
+        { "title": "Właściciel serwisu", "body": "Zgodnie z hiszpańską ustawą 34/2002 o usługach społeczeństwa informacyjnego i handlu elektronicznym (LSSI) informujemy, że właścicielem serwisu jest {company} z siedzibą handlową na Mercabarnie, pawilon E, 08040 Barcelona (Hiszpania). E-mail: {email}. Telefon: {phone}." },
+        { "title": "Cel serwisu", "body": "Serwis zawiera informacje firmowe i handlowe na temat hurtowego handlu owocami i warzywami prowadzonego przez firmę, skierowane do profesjonalistów z branży. Za pośrednictwem serwisu nie prowadzi się sprzedaży." },
+        { "title": "Warunki korzystania", "body": "Dostęp do serwisu jest bezpłatny i oznacza akceptację niniejszych warunków. Użytkownik zobowiązuje się do korzystania z treści w odpowiedni sposób i niewykorzystywania ich w celach niezgodnych z prawem lub dobrymi obyczajami." },
+        { "title": "Własność intelektualna i przemysłowa", "body": "Teksty, projekt graficzny, logo i inne elementy serwisu należą do jego właściciela lub są wykorzystywane na podstawie odpowiedniej licencji. Zdjęcia produktów mają charakter poglądowy i pochodzą z licencjonowanych banków zdjęć. Ich powielanie bez zgody jest zabronione." },
+        { "title": "Odpowiedzialność", "body": "Informacje o produktach mają charakter orientacyjny: asortyment i dostępność zmieniają się w zależności od sezonu i kampanii. Właściciel nie ponosi odpowiedzialności za sposób wykorzystania opublikowanych informacji przez osoby trzecie ani za treści stron, do których prowadzą linki." },
+        { "title": "Prawo właściwe", "body": "Niniejsza nota prawna podlega prawu hiszpańskiemu." }
+      ]
+    },
+    "privacy": {
+      "title": "Polityka prywatności",
+      "sections": [
+        { "title": "Administrator danych", "body": "{company}. Siedziba handlowa: Mercabarna, pawilon E, 08040 Barcelona (Hiszpania). E-mail kontaktowy: {email}." },
+        { "title": "Jakie dane przetwarzamy", "body": "Dane podane w formularzach kontaktowym, dla kupujących i dla dostawców: imię i nazwisko, firma, e-mail, telefon (opcjonalnie), kraj oraz informacje handlowe, które zdecydujesz się przekazać. Prosimy nie podawać danych, które nie są potrzebne do obsługi zapytania." },
+        { "title": "Cel przetwarzania", "body": "Udzielenie odpowiedzi na Twoje zapytanie i, w stosownych przypadkach, prowadzenie wynikającej z niego relacji handlowej. Nie wykorzystujemy Twoich danych do wysyłania niezamówionych informacji handlowych." },
+        { "title": "Podstawa prawna", "body": "Twoja zgoda wyrażona przy wysyłaniu formularza oraz, w stosownych przypadkach, podjęcie działań na Twoje żądanie przed zawarciem umowy (art. 6 ust. 1 lit. a i b RODO)." },
+        { "title": "Okres przechowywania", "body": "Przechowujemy dane przez czas niezbędny do obsługi zapytania, a następnie przez okresy wymagane przepisami prawa." },
+        { "title": "Odbiorcy i podmioty przetwarzające", "body": "Nie przekazujemy Twoich danych osobom trzecim, chyba że wymaga tego prawo. Do działania serwisu i wysyłki formularzy korzystamy z usług dostawców technologicznych (hosting i usługa poczty e-mail), którzy działają jako podmioty przetwarzające z odpowiednimi zabezpieczeniami." },
+        { "title": "Twoje prawa", "body": "Możesz skorzystać z prawa dostępu, sprostowania, usunięcia, sprzeciwu, ograniczenia przetwarzania i przenoszenia danych, pisząc na adres {email}. Możesz także złożyć skargę do hiszpańskiej Agencji Ochrony Danych (www.aepd.es) lub do organu nadzorczego w swoim kraju." },
+        { "title": "Bezpieczeństwo", "body": "Stosujemy rozsądne środki techniczne i organizacyjne w celu ochrony danych, takie jak szyfrowana transmisja (HTTPS) i minimalizacja zbieranych danych. Wiadomości z formularzy nie są przechowywane w żadnej bazie danych serwisu." }
+      ]
+    },
+    "cookies": {
+      "title": "Polityka cookies",
+      "sections": [
+        { "title": "Czym są pliki cookies", "body": "Pliki cookies to niewielkie pliki zapisywane przez stronę internetową w przeglądarce. Niektóre są niezbędne do działania strony, a inne służą na przykład do mierzenia jej wykorzystania." },
+        { "title": "Techniczne pliki cookies", "body": "Używamy jednego technicznego pliku cookie (NEXT_LOCALE) do zapamiętania wybranego języka oraz pamięci lokalnej do zapamiętania Twoich preferencji dotyczących cookies. Są one niezbędne i nie wymagają zgody." },
+        { "title": "Analityczne pliki cookies", "body": "Jeśli w przyszłości zostanie włączone Google Analytics, będzie ładowane dopiero po wyrażeniu przez Ciebie zgody w komunikacie o cookies. Swoją decyzję możesz zmienić w dowolnym momencie za pomocą linku „Ustawienia cookies” w stopce." },
+        { "title": "Treści stron trzecich", "body": "Mapa na stronie kontaktowej jest ładowana z Map Google dopiero po kliknięciu „Załaduj mapę”. Google może zapisywać własne pliki cookies; zapoznaj się z jego polityką na policies.google.com." },
+        { "title": "Jak je wyłączyć", "body": "Pliki cookies możesz usunąć lub zablokować w ustawieniach przeglądarki." }
+      ]
+    }
+  },
+  "images": {
+    "heroMarket": "Stoisko targowe z dużym wyborem świeżych owoców i warzyw",
+    "mandarinTree": "Drzewo mandarynkowe pełne dojrzałych owoców w sadzie",
+    "artichokes": "Skrzynka świeżych karczochów z łodygami",
+    "melon": "Przekrojony melon na zielonym tle",
+    "eggplant": "Lśniący fioletowy bakłażan",
+    "mandarins": "Mandarynki z zielonymi liśćmi",
+    "citrusPile": "Stos mandarynek i pomarańczy",
+    "watermelon": "Cały arbuz i pokrojony kawałek",
+    "peppers": "Czerwona, pomarańczowa i zielona papryka",
+    "vegetableStall": "Stoisko z warzywami: cukinie, papryka i kapusta",
+    "vegetableBaskets": "Kosze z brokułami, fasolką szparagową, cukiniami i marchwią",
+    "peachTree": "Brzoskwinie dojrzewające na drzewie",
+    "tomatoes": "Ułożone pomidory na gałązce",
+    "localCrates": "Drewniane skrzynki ze świeżo zebranymi porami i marchwią",
+    "potatoCrates": "Skrzynki z ziemniakami na targu",
+    "mixedFruit": "Różne owoce: cytrusy, ananas, papaja, winogrona i awokado",
+    "carrotCrate": "Drewniana skrzynka ze świeżą marchwią",
+    "eggplantFlower": "Kwiat bakłażana na plantacji",
+    "retailShelves": "Regał z owocami i warzywami w supermarkecie",
+    "farmer": "Rolniczka pracująca na polu uprawnym",
+    "cropRows": "Rzędy upraw na polu"
+  },
+  "notFound": {
+    "title": "Ta strona nie istnieje.",
+    "body": "Adres mógł się zmienić. Możesz wrócić na stronę główną lub przejrzeć nasze produkty.",
+    "home": "Wróć na stronę główną"
+  }
+}
